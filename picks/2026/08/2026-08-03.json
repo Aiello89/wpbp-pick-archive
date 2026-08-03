@@ -133,5 +133,32 @@
     "potd_reasoning": "Model sees 8.7pp more value than market; Significant pitching advantage; Strong Favourite badge; Underdog value play",
     "wp_pick": "Giants +1.5",
     "wp_pick_team": "Giants"
+  },
+  {
+    "away_dark_horse": "Luis Ur\u00edas",
+    "away_ml": 132,
+    "away_pitcher": "Shane Bieber",
+    "away_pitcher_xfip": 5.58,
+    "away_rest_days": 1,
+    "away_team": "Blue Jays",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1785801310,
+    "game_date": "2026-08-03",
+    "game_time_et": "8:10 PM ET",
+    "home_dark_horse": "Christian Walker",
+    "home_ml": -156,
+    "home_pitcher": "Cristian Javier",
+    "home_pitcher_xfip": 5.21,
+    "home_rest_days": 1,
+    "home_team": "Astros",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 9.0",
+    "pick_odds": -156,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (60.3%)",
+    "wp_pick": "Astros moneyline",
+    "wp_pick_team": "Astros"
   }
 ]
