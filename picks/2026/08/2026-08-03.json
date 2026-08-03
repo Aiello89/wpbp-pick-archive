@@ -25,5 +25,32 @@
     "potd_reasoning": "Model sees 9.9pp more value than market; Significant pitching advantage; Underdog value play",
     "wp_pick": "Nationals +1.5",
     "wp_pick_team": "Nationals"
+  },
+  {
+    "away_dark_horse": "Nelson Vel\u00e1zquez",
+    "away_ml": 209,
+    "away_pitcher": "Michael McGreevy",
+    "away_pitcher_xfip": 4.16,
+    "away_rest_days": 1,
+    "away_team": "Cardinals",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1785797407,
+    "game_date": "2026-08-03",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Amed Rosario",
+    "home_ml": -246,
+    "home_pitcher": "Cam Schlittler",
+    "home_pitcher_xfip": 2.6,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 8.0",
+    "pick_odds": -246,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (72.7%); Significant pitching advantage",
+    "wp_pick": "Yankees moneyline",
+    "wp_pick_team": "Yankees"
   }
 ]
