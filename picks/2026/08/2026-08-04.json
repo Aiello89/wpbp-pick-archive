@@ -133,5 +133,32 @@
     "potd_reasoning": "Strong model edge (61.5%)",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Munetaka Murakami",
+    "away_ml": 124,
+    "away_pitcher": "Davis Martin",
+    "away_pitcher_xfip": 3.19,
+    "away_rest_days": 1,
+    "away_team": "White Sox",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1785884111,
+    "game_date": "2026-08-04",
+    "game_time_et": "7:10 PM ET",
+    "home_dark_horse": "Wilyer Abreu",
+    "home_ml": -146,
+    "home_pitcher": "Patrick Sandoval",
+    "home_pitcher_xfip": 3.89,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 9.0",
+    "pick_odds": 124,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model sees 4.1pp more value than market; Underdog value play",
+    "wp_pick": "White Sox +1.5",
+    "wp_pick_team": "White Sox"
   }
 ]
