@@ -106,5 +106,32 @@
     "potd_reasoning": "Strong model edge (58.4%); Significant pitching advantage",
     "wp_pick": "Phillies moneyline",
     "wp_pick_team": "Phillies"
+  },
+  {
+    "away_dark_horse": "Nelson Vel\u00e1zquez",
+    "away_ml": 170,
+    "away_pitcher": "Hunter Dobbins",
+    "away_pitcher_xfip": 3.83,
+    "away_rest_days": 1,
+    "away_team": "Cardinals",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1785883808,
+    "game_date": "2026-08-04",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -201,
+    "home_pitcher": "Ryan Weathers",
+    "home_pitcher_xfip": 3.58,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -201,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (61.5%)",
+    "wp_pick": "Yankees moneyline",
+    "wp_pick_team": "Yankees"
   }
 ]
