@@ -1,0 +1,29 @@
+[
+  {
+    "away_dark_horse": "Luis Ur\u00edas",
+    "away_ml": 176,
+    "away_pitcher": "Jameson Taillon",
+    "away_pitcher_xfip": 5.23,
+    "away_rest_days": 1,
+    "away_team": "Blue Jays",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1785952509,
+    "game_date": "2026-08-05",
+    "game_time_et": "2:10 PM ET",
+    "home_dark_horse": "Christian Walker",
+    "home_ml": -208,
+    "home_pitcher": "Hunter Brown",
+    "home_pitcher_xfip": 4.48,
+    "home_rest_days": 1,
+    "home_team": "Astros",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -208,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (65.1%)",
+    "wp_pick": "Astros moneyline",
+    "wp_pick_team": "Astros"
+  }
+]
