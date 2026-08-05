@@ -25,5 +25,32 @@
     "potd_reasoning": "Strong model edge (65.1%)",
     "wp_pick": "Astros moneyline",
     "wp_pick_team": "Astros"
+  },
+  {
+    "away_dark_horse": "Enrique Hern\u00e1ndez",
+    "away_ml": 100,
+    "away_pitcher": "Eric Lauer",
+    "away_pitcher_xfip": 5.11,
+    "away_rest_days": 1,
+    "away_team": "Dodgers",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1785953108,
+    "game_date": "2026-08-05",
+    "game_time_et": "2:20 PM ET",
+    "home_dark_horse": "Tyrone Taylor",
+    "home_ml": -108,
+    "home_pitcher": "Shota Imanaga",
+    "home_pitcher_xfip": 3.95,
+    "home_rest_days": 1,
+    "home_team": "Cubs",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 10.0",
+    "pick_odds": 100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Dodgers +1.5",
+    "wp_pick_team": "Dodgers"
   }
 ]
