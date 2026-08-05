@@ -79,5 +79,32 @@
     "potd_reasoning": "Strong model edge (59.8%)",
     "wp_pick": "Rangers moneyline",
     "wp_pick_team": "Rangers"
+  },
+  {
+    "away_dark_horse": "Ryan Vilade",
+    "away_ml": -153,
+    "away_pitcher": "Nick Martinez",
+    "away_pitcher_xfip": 4.12,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1785956112,
+    "game_date": "2026-08-05",
+    "game_time_et": "3:10 PM ET",
+    "home_dark_horse": "Mickey Moniak",
+    "home_ml": 130,
+    "home_pitcher": "Tomoyuki Sugano",
+    "home_pitcher_xfip": 4.79,
+    "home_rest_days": 1,
+    "home_team": "Rockies",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Under 11.0",
+    "pick_odds": -153,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (66.5%); Model sees 6.1pp more value than market; Strong Favourite badge",
+    "wp_pick": "Rays moneyline",
+    "wp_pick_team": "Rays"
   }
 ]
