@@ -52,5 +52,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Dodgers +1.5",
     "wp_pick_team": "Dodgers"
+  },
+  {
+    "away_dark_horse": "Osleivis Basabe",
+    "away_ml": 124,
+    "away_pitcher": "Carson Whisenhunt",
+    "away_pitcher_xfip": 5.4,
+    "away_rest_days": 1,
+    "away_team": "Giants",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1785954009,
+    "game_date": "2026-08-05",
+    "game_time_et": "2:35 PM ET",
+    "home_dark_horse": "Wyatt Langford",
+    "home_ml": -147,
+    "home_pitcher": "Cody Bradford",
+    "home_pitcher_xfip": 5.0,
+    "home_rest_days": 1,
+    "home_team": "Rangers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -147,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (59.8%)",
+    "wp_pick": "Rangers moneyline",
+    "wp_pick_team": "Rangers"
   }
 ]
