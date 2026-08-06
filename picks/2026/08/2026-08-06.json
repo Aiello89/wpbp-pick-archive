@@ -52,5 +52,32 @@
     "potd_reasoning": "Strong model edge (62.5%)",
     "wp_pick": "Reds moneyline",
     "wp_pick_team": "Reds"
+  },
+  {
+    "away_dark_horse": "Francisco Alvarez",
+    "away_ml": 104,
+    "away_pitcher": "Nolan McLean",
+    "away_pitcher_xfip": 3.54,
+    "away_rest_days": 1,
+    "away_team": "Mets",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786035307,
+    "game_date": "2026-08-06",
+    "game_time_et": "1:10 PM ET",
+    "home_dark_horse": "Nathaniel Lowe",
+    "home_ml": -123,
+    "home_pitcher": "Foster Griffin",
+    "home_pitcher_xfip": 3.91,
+    "home_rest_days": 1,
+    "home_team": "Guardians",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 7.0",
+    "pick_odds": 104,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Mets +1.5",
+    "wp_pick_team": "Mets"
   }
 ]
