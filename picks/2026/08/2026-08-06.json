@@ -187,5 +187,32 @@
     "potd_reasoning": "Strong model edge (66.2%); Significant pitching advantage",
     "wp_pick": "Phillies moneyline",
     "wp_pick_team": "Phillies"
+  },
+  {
+    "away_dark_horse": "Munetaka Murakami",
+    "away_ml": 164,
+    "away_pitcher": "Luis Castillo",
+    "away_pitcher_xfip": 4.29,
+    "away_rest_days": 1,
+    "away_team": "White Sox",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786056908,
+    "game_date": "2026-08-06",
+    "game_time_et": "7:10 PM ET",
+    "home_dark_horse": "Wilyer Abreu",
+    "home_ml": -193,
+    "home_pitcher": "Ranger Suarez",
+    "home_pitcher_xfip": 2.62,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -193,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (64.3%); Significant pitching advantage",
+    "wp_pick": "Red Sox moneyline",
+    "wp_pick_team": "Red Sox"
   }
 ]
