@@ -79,5 +79,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Mets +1.5",
     "wp_pick_team": "Mets"
+  },
+  {
+    "away_dark_horse": "Esmerlyn Valdez",
+    "away_ml": 100,
+    "away_pitcher": "Braxton Ashcraft",
+    "away_pitcher_xfip": 3.44,
+    "away_rest_days": 1,
+    "away_team": "Pirates",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786038909,
+    "game_date": "2026-08-06",
+    "game_time_et": "2:10 PM ET",
+    "home_dark_horse": "Gary S\u00e1nchez",
+    "home_ml": -117,
+    "home_pitcher": "Dustin May",
+    "home_pitcher_xfip": 3.22,
+    "home_rest_days": 1,
+    "home_team": "Brewers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -117,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (60.5%); Model sees 6.6pp more value than market; Strong Favourite badge",
+    "wp_pick": "Brewers moneyline",
+    "wp_pick_team": "Brewers"
   }
 ]
