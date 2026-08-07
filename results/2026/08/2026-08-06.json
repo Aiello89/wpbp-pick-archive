@@ -1,0 +1,101 @@
+[
+  {
+    "away_score": 3,
+    "away_team": "Marlins",
+    "game_date": "2026-08-06",
+    "home_score": 11,
+    "home_team": "Braves",
+    "pick_result": "LOSS",
+    "wp_pick": "Marlins +1.5"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Pirates",
+    "game_date": "2026-08-06",
+    "home_score": 5,
+    "home_team": "Brewers",
+    "pick_result": "WIN",
+    "wp_pick": "Brewers moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Blue Jays",
+    "game_date": "2026-08-06",
+    "home_score": 3,
+    "home_team": "Cubs",
+    "pick_result": "WIN",
+    "wp_pick": "Cubs +1.5"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Padres",
+    "game_date": "2026-08-06",
+    "home_score": 1,
+    "home_team": "Diamondbacks",
+    "pick_result": "LOSS",
+    "wp_pick": "Diamondbacks +1.5"
+  },
+  {
+    "away_score": 13,
+    "away_team": "Mets",
+    "game_date": "2026-08-06",
+    "home_score": 6,
+    "home_team": "Guardians",
+    "pick_result": "WIN",
+    "wp_pick": "Mets +1.5"
+  },
+  {
+    "away_score": 11,
+    "away_team": "Tigers",
+    "game_date": "2026-08-06",
+    "home_score": 0,
+    "home_team": "Mariners",
+    "pick_result": "WIN",
+    "wp_pick": "Tigers +1.5"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Angels",
+    "game_date": "2026-08-06",
+    "home_score": 1,
+    "home_team": "Orioles",
+    "pick_result": "LOSS",
+    "wp_pick": "Orioles moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Nationals",
+    "game_date": "2026-08-06",
+    "home_score": 7,
+    "home_team": "Phillies",
+    "pick_result": "WIN",
+    "wp_pick": "Phillies moneyline"
+  },
+  {
+    "away_score": 11,
+    "away_team": "White Sox",
+    "game_date": "2026-08-06",
+    "home_score": 12,
+    "home_team": "Red Sox",
+    "pick_result": "WIN",
+    "wp_pick": "Red Sox moneyline"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Athletics",
+    "game_date": "2026-08-06",
+    "home_score": 6,
+    "home_team": "Reds",
+    "pick_result": "WIN",
+    "wp_pick": "Reds moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Twins",
+    "game_date": "2026-08-06",
+    "home_score": 3,
+    "home_team": "Royals",
+    "pick_result": "WIN",
+    "wp_pick": "Twins +1.5"
+  }
+]
