@@ -52,5 +52,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Mets +1.5",
     "wp_pick_team": "Mets"
+  },
+  {
+    "away_dark_horse": "JJ Bleday",
+    "away_ml": 101,
+    "away_pitcher": "Chase Petty",
+    "away_pitcher_xfip": 5.1,
+    "away_rest_days": 1,
+    "away_team": "Reds",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786141813,
+    "game_date": "2026-08-07",
+    "game_time_et": "6:45 PM ET",
+    "home_dark_horse": "Andr\u00e9s Chaparro",
+    "home_ml": -119,
+    "home_pitcher": "Cade Cavalli",
+    "home_pitcher_xfip": 3.47,
+    "home_rest_days": 1,
+    "home_team": "Nationals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 9.0",
+    "pick_odds": 101,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Reds +1.5",
+    "wp_pick_team": "Reds"
   }
 ]
