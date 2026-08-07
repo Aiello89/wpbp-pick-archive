@@ -214,5 +214,32 @@
     "potd_reasoning": "Strong model edge (67.0%); Model sees 4.0pp more value than market; Significant pitching advantage",
     "wp_pick": "Brewers moneyline",
     "wp_pick_team": "Brewers"
+  },
+  {
+    "away_dark_horse": "Tyrone Taylor",
+    "away_ml": -165,
+    "away_pitcher": "Kevin Gausman",
+    "away_pitcher_xfip": 3.53,
+    "away_rest_days": 1,
+    "away_team": "Cubs",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786146908,
+    "game_date": "2026-08-07",
+    "game_time_et": "8:10 PM ET",
+    "home_dark_horse": "John Rave",
+    "home_ml": 140,
+    "home_pitcher": "Daniel Lynch IV",
+    "home_pitcher_xfip": 3.13,
+    "home_rest_days": 1,
+    "home_team": "Royals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 9.0",
+    "pick_odds": 140,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Royals +1.5",
+    "wp_pick_team": "Royals"
   }
 ]
