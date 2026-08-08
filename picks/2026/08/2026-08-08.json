@@ -349,5 +349,32 @@
     "potd_reasoning": "Strong model edge (60.6%); Model sees 7.4pp more value than market; Strong Favourite badge",
     "wp_pick": "Tigers moneyline",
     "wp_pick_team": "Tigers"
+  },
+  {
+    "away_dark_horse": "Max Muncy",
+    "away_ml": -192,
+    "away_pitcher": "Yoshinobu Yamamoto",
+    "away_pitcher_xfip": 3.53,
+    "away_rest_days": 1,
+    "away_team": "Dodgers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786233308,
+    "game_date": "2026-08-08",
+    "game_time_et": "8:10 PM ET",
+    "home_dark_horse": "Corbin Carroll",
+    "home_ml": 163,
+    "home_pitcher": "Brandon Pfaadt",
+    "home_pitcher_xfip": 4.16,
+    "home_rest_days": 1,
+    "home_team": "Diamondbacks",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 8.5",
+    "pick_odds": -192,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (58.9%)",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
