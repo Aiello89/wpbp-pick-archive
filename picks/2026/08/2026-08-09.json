@@ -295,5 +295,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Orioles +1.5",
     "wp_pick_team": "Orioles"
+  },
+  {
+    "away_dark_horse": "Eduardo Valencia",
+    "away_ml": -123,
+    "away_pitcher": "Troy Melton",
+    "away_pitcher_xfip": 3.86,
+    "away_rest_days": 1,
+    "away_team": "Tigers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786305006,
+    "game_date": "2026-08-09",
+    "game_time_et": "4:05 PM ET",
+    "home_dark_horse": "Osleivis Basabe",
+    "home_ml": 104,
+    "home_pitcher": "Logan Webb",
+    "home_pitcher_xfip": 3.38,
+    "home_rest_days": 1,
+    "home_team": "Giants",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.5",
+    "pick_odds": -123,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (62.8%); Model sees 7.7pp more value than market; Strong Favourite badge",
+    "wp_pick": "Tigers moneyline",
+    "wp_pick_team": "Tigers"
   }
 ]
