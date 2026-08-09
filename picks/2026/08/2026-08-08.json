@@ -376,5 +376,32 @@
     "potd_reasoning": "Strong model edge (58.9%)",
     "wp_pick": "Dodgers moneyline",
     "wp_pick_team": "Dodgers"
+  },
+  {
+    "away_dark_horse": "Victor Mesa Jr.",
+    "away_ml": 113,
+    "away_pitcher": "Casey Legumina",
+    "away_pitcher_xfip": 3.72,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786239307,
+    "game_date": "2026-08-08",
+    "game_time_et": "9:50 PM ET",
+    "home_dark_horse": "Julio Rodr\u00edguez",
+    "home_ml": -134,
+    "home_pitcher": "George Kirby",
+    "home_pitcher_xfip": 3.61,
+    "home_rest_days": 1,
+    "home_team": "Mariners",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.0",
+    "pick_odds": 113,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model sees 9.5pp more value than market; Strong Favourite badge; Underdog value play",
+    "wp_pick": "Rays +1.5",
+    "wp_pick_team": "Rays"
   }
 ]
