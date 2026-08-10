@@ -1,0 +1,29 @@
+[
+  {
+    "away_dark_horse": "Wilyer Abreu",
+    "away_ml": -157,
+    "away_pitcher": "Sonny Gray",
+    "away_pitcher_xfip": 3.6,
+    "away_rest_days": 1,
+    "away_team": "Red Sox",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786402508,
+    "game_date": "2026-08-10",
+    "game_time_et": "7:07 PM ET",
+    "home_dark_horse": "Brandon Valenzuela",
+    "home_ml": 133,
+    "home_pitcher": "Jameson Taillon",
+    "home_pitcher_xfip": 5.22,
+    "home_rest_days": 1,
+    "home_team": "Blue Jays",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -157,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (68.3%); Model sees 7.2pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Red Sox moneyline",
+    "wp_pick_team": "Red Sox"
+  }
+]
