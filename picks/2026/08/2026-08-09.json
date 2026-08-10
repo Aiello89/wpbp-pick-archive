@@ -376,5 +376,32 @@
     "potd_reasoning": "Strong model edge (58.2%); Model sees 8.2pp more value than market; Strong Favourite badge; Underdog value play",
     "wp_pick": "Rays moneyline",
     "wp_pick_team": "Rays"
+  },
+  {
+    "away_dark_horse": "Christian Walker",
+    "away_ml": 100,
+    "away_pitcher": "Cristian Javier",
+    "away_pitcher_xfip": 5.0,
+    "away_rest_days": 1,
+    "away_team": "Astros",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786320308,
+    "game_date": "2026-08-09",
+    "game_time_et": "8:20 PM ET",
+    "home_dark_horse": "Ty France",
+    "home_ml": -111,
+    "home_pitcher": "Randy V\u00e1squez",
+    "home_pitcher_xfip": 4.53,
+    "home_rest_days": 1,
+    "home_team": "Padres",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 9.0",
+    "pick_odds": 100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Astros +1.5",
+    "wp_pick_team": "Astros"
   }
 ]
