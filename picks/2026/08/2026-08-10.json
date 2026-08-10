@@ -79,5 +79,32 @@
     "potd_reasoning": "Strong model edge (62.1%); Model sees 12.1pp more value than market; Significant pitching advantage; Strong Favourite badge; Underdog value play",
     "wp_pick": "Orioles moneyline",
     "wp_pick_team": "Orioles"
+  },
+  {
+    "away_dark_horse": "Bryce Harper",
+    "away_ml": -114,
+    "away_pitcher": "Andrew Painter",
+    "away_pitcher_xfip": 4.73,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786404614,
+    "game_date": "2026-08-10",
+    "game_time_et": "7:45 PM ET",
+    "home_dark_horse": "Everson Pereira",
+    "home_ml": 100,
+    "home_pitcher": "Hunter Dobbins",
+    "home_pitcher_xfip": 4.17,
+    "home_rest_days": 1,
+    "home_team": "Cardinals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": true,
+    "over_under": "Over 9.0",
+    "pick_odds": 100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model sees 7.0pp more value than market; Strong Favourite badge; Underdog value play",
+    "wp_pick": "Cardinals +1.5",
+    "wp_pick_team": "Cardinals"
   }
 ]
