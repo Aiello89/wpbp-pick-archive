@@ -214,5 +214,32 @@
     "potd_reasoning": "Strong model edge (63.1%); Strong Favourite badge",
     "wp_pick": "Diamondbacks moneyline",
     "wp_pick_team": "Diamondbacks"
+  },
+  {
+    "away_dark_horse": "Christian Walker",
+    "away_ml": -140,
+    "away_pitcher": "Hayden Wesneski",
+    "away_pitcher_xfip": 3.08,
+    "away_rest_days": 1,
+    "away_team": "Astros",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786411814,
+    "game_date": "2026-08-10",
+    "game_time_et": "9:45 PM ET",
+    "home_dark_horse": "Osleivis Basabe",
+    "home_ml": 119,
+    "home_pitcher": "Blade Tidwell",
+    "home_pitcher_xfip": 3.29,
+    "home_rest_days": 1,
+    "home_team": "Giants",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 8.0",
+    "pick_odds": 119,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Giants +1.5",
+    "wp_pick_team": "Giants"
   }
 ]
