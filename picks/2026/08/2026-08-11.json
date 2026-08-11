@@ -106,5 +106,32 @@
     "potd_reasoning": "Strong model edge (59.6%)",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Wilyer Abreu",
+    "away_ml": 109,
+    "away_pitcher": "Patrick Sandoval",
+    "away_pitcher_xfip": 3.99,
+    "away_rest_days": 1,
+    "away_team": "Red Sox",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786488911,
+    "game_date": "2026-08-11",
+    "game_time_et": "7:07 PM ET",
+    "home_dark_horse": "Charles McAdoo",
+    "home_ml": -129,
+    "home_pitcher": "Dylan Cease",
+    "home_pitcher_xfip": 2.28,
+    "home_rest_days": 1,
+    "home_team": "Blue Jays",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 7.0",
+    "pick_odds": 109,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Red Sox +1.5",
+    "wp_pick_team": "Red Sox"
   }
 ]
