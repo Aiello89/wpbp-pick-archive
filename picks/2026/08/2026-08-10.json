@@ -106,5 +106,32 @@
     "potd_reasoning": "Model sees 7.0pp more value than market; Strong Favourite badge; Underdog value play",
     "wp_pick": "Cardinals +1.5",
     "wp_pick_team": "Cardinals"
+  },
+  {
+    "away_dark_horse": "Justin Foscue",
+    "away_ml": -106,
+    "away_pitcher": "MacKenzie Gore",
+    "away_pitcher_xfip": 3.75,
+    "away_rest_days": 1,
+    "away_team": "Rangers",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786411508,
+    "game_date": "2026-08-10",
+    "game_time_et": "9:38 PM ET",
+    "home_dark_horse": "Jose Siri",
+    "home_ml": 100,
+    "home_pitcher": "Reid Detmers",
+    "home_pitcher_xfip": 3.41,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.5",
+    "pick_odds": 100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Angels +1.5",
+    "wp_pick_team": "Angels"
   }
 ]
