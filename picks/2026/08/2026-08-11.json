@@ -79,5 +79,32 @@
     "potd_reasoning": "Strong model edge (62.8%)",
     "wp_pick": "Cubs moneyline",
     "wp_pick_team": "Cubs"
+  },
+  {
+    "away_dark_horse": "Julio Rodr\u00edguez",
+    "away_ml": 109,
+    "away_pitcher": "Bryan Woo",
+    "away_pitcher_xfip": 3.28,
+    "away_rest_days": 1,
+    "away_team": "Mariners",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786488606,
+    "game_date": "2026-08-11",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -129,
+    "home_pitcher": "Ryan Weathers",
+    "home_pitcher_xfip": 3.52,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -129,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (59.6%)",
+    "wp_pick": "Yankees moneyline",
+    "wp_pick_team": "Yankees"
   }
 ]
