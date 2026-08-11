@@ -241,5 +241,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Giants +1.5",
     "wp_pick_team": "Giants"
+  },
+  {
+    "away_dark_horse": "John Rave",
+    "away_ml": 239,
+    "away_pitcher": "Noah Cameron",
+    "away_pitcher_xfip": 3.79,
+    "away_rest_days": 1,
+    "away_team": "Royals",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786413309,
+    "game_date": "2026-08-10",
+    "game_time_et": "10:10 PM ET",
+    "home_dark_horse": "Max Muncy",
+    "home_ml": -282,
+    "home_pitcher": "Tarik Skubal",
+    "home_pitcher_xfip": 2.77,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -282,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (69.9%); Significant pitching advantage",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
