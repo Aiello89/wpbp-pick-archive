@@ -214,5 +214,32 @@
     "potd_reasoning": "Strong model edge (64.6%); Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "White Sox moneyline",
     "wp_pick_team": "White Sox"
+  },
+  {
+    "away_dark_horse": "Bryce Harper",
+    "away_ml": -159,
+    "away_pitcher": "Cristopher S\u00e1nchez",
+    "away_pitcher_xfip": 2.78,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786491013,
+    "game_date": "2026-08-11",
+    "game_time_et": "7:45 PM ET",
+    "home_dark_horse": "Everson Pereira",
+    "home_ml": 135,
+    "home_pitcher": "Andre Pallante",
+    "home_pitcher_xfip": 3.81,
+    "home_rest_days": 1,
+    "home_team": "Cardinals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 7.5",
+    "pick_odds": 135,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model sees 4.1pp more value than market; Underdog value play",
+    "wp_pick": "Cardinals +1.5",
+    "wp_pick_team": "Cardinals"
   }
 ]
