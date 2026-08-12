@@ -241,5 +241,32 @@
     "potd_reasoning": "Model sees 4.1pp more value than market; Underdog value play",
     "wp_pick": "Cardinals +1.5",
     "wp_pick_team": "Cardinals"
+  },
+  {
+    "away_dark_horse": "Wyatt Langford",
+    "away_ml": -142,
+    "away_pitcher": "Cody Bradford",
+    "away_pitcher_xfip": 2.25,
+    "away_rest_days": 1,
+    "away_team": "Rangers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786497911,
+    "game_date": "2026-08-11",
+    "game_time_et": "9:38 PM ET",
+    "home_dark_horse": "Jose Siri",
+    "home_ml": 120,
+    "home_pitcher": "Ryan Johnson",
+    "home_pitcher_xfip": 5.62,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 9.0",
+    "pick_odds": -142,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (63.8%); Model sees 5.2pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Rangers moneyline",
+    "wp_pick_team": "Rangers"
   }
 ]
