@@ -268,5 +268,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Mariners +1.5",
     "wp_pick_team": "Mariners"
+  },
+  {
+    "away_dark_horse": "Wilyer Abreu",
+    "away_ml": -129,
+    "away_pitcher": "Ranger Suarez",
+    "away_pitcher_xfip": 2.79,
+    "away_rest_days": 1,
+    "away_team": "Red Sox",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786575313,
+    "game_date": "2026-08-12",
+    "game_time_et": "7:07 PM ET",
+    "home_dark_horse": "Charles McAdoo",
+    "home_ml": 109,
+    "home_pitcher": "Jos\u00e9 Soriano",
+    "home_pitcher_xfip": 3.86,
+    "home_rest_days": 1,
+    "home_team": "Blue Jays",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.0",
+    "pick_odds": -129,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (61.9%); Model sees 5.6pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Red Sox moneyline",
+    "wp_pick_team": "Red Sox"
   }
 ]
