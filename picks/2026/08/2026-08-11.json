@@ -376,5 +376,32 @@
     "potd_reasoning": "Strong model edge (68.4%); Significant pitching advantage",
     "wp_pick": "Astros moneyline",
     "wp_pick_team": "Astros"
+  },
+  {
+    "away_dark_horse": "John Rave",
+    "away_ml": 225,
+    "away_pitcher": "Michael Wacha",
+    "away_pitcher_xfip": 4.06,
+    "away_rest_days": 1,
+    "away_team": "Royals",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786499711,
+    "game_date": "2026-08-11",
+    "game_time_et": "10:10 PM ET",
+    "home_dark_horse": "Max Muncy",
+    "home_ml": -265,
+    "home_pitcher": "Blake Snell",
+    "home_pitcher_xfip": 1.84,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -265,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (62.2%); Significant pitching advantage",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
