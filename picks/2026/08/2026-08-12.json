@@ -52,5 +52,32 @@
     "potd_reasoning": "Model sees 8.2pp more value than market; Underdog value play",
     "wp_pick": "Cardinals +1.5",
     "wp_pick_team": "Cardinals"
+  },
+  {
+    "away_dark_horse": "Victor Mesa Jr.",
+    "away_ml": -222,
+    "away_pitcher": "Drew Rasmussen",
+    "away_pitcher_xfip": 3.01,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Strong",
+    "finalized_at_unix": 1786560608,
+    "game_date": "2026-08-12",
+    "game_time_et": "3:05 PM ET",
+    "home_dark_horse": "Brian Serven",
+    "home_ml": 188,
+    "home_pitcher": "Jack Perkins",
+    "home_pitcher_xfip": 4.23,
+    "home_rest_days": 1,
+    "home_team": "Athletics",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 9.5",
+    "pick_odds": -222,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (79.8%); Model sees 10.9pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Rays -1.5",
+    "wp_pick_team": "Rays"
   }
 ]
