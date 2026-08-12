@@ -295,5 +295,32 @@
     "potd_reasoning": "Strong model edge (61.9%); Model sees 5.6pp more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Red Sox moneyline",
     "wp_pick_team": "Red Sox"
+  },
+  {
+    "away_dark_horse": "Francisco Alvarez",
+    "away_ml": 144,
+    "away_pitcher": "Zac Thornton",
+    "away_pitcher_xfip": 3.78,
+    "away_rest_days": 1,
+    "away_team": "Mets",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786575622,
+    "game_date": "2026-08-12",
+    "game_time_et": "7:15 PM ET",
+    "home_dark_horse": "Michael Harris II",
+    "home_ml": -170,
+    "home_pitcher": "Tyler Mahle",
+    "home_pitcher_xfip": 4.05,
+    "home_rest_days": 1,
+    "home_team": "Braves",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 8.5",
+    "pick_odds": 144,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Mets +1.5",
+    "wp_pick_team": "Mets"
   }
 ]
