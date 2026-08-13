@@ -133,5 +133,32 @@
     "potd_reasoning": "Strong model edge (66.9%); Model sees 8.9pp more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Red Sox moneyline",
     "wp_pick_team": "Red Sox"
+  },
+  {
+    "away_dark_horse": "Tyrone Taylor",
+    "away_ml": -146,
+    "away_pitcher": "Kevin Gausman",
+    "away_pitcher_xfip": 3.56,
+    "away_rest_days": 1,
+    "away_team": "Cubs",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786650609,
+    "game_date": "2026-08-13",
+    "game_time_et": "4:05 PM ET",
+    "home_dark_horse": "Abimelec Ortiz",
+    "home_ml": 124,
+    "home_pitcher": "Cade Cavalli",
+    "home_pitcher_xfip": 3.64,
+    "home_rest_days": 1,
+    "home_team": "Nationals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.5",
+    "pick_odds": 124,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Nationals +1.5",
+    "wp_pick_team": "Nationals"
   }
 ]
