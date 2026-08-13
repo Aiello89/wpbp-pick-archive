@@ -106,5 +106,32 @@
     "potd_reasoning": "Strong model edge (62.0%); Significant pitching advantage",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Wilyer Abreu",
+    "away_ml": -138,
+    "away_pitcher": "Payton Tolle",
+    "away_pitcher_xfip": 3.25,
+    "away_rest_days": 1,
+    "away_team": "Red Sox",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786647312,
+    "game_date": "2026-08-13",
+    "game_time_et": "3:07 PM ET",
+    "home_dark_horse": "Charles McAdoo",
+    "home_ml": 117,
+    "home_pitcher": "Max Scherzer",
+    "home_pitcher_xfip": 5.58,
+    "home_rest_days": 1,
+    "home_team": "Blue Jays",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -138,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (66.9%); Model sees 8.9pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Red Sox moneyline",
+    "wp_pick_team": "Red Sox"
   }
 ]
