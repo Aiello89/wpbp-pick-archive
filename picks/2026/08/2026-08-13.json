@@ -214,5 +214,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Angels +1.5",
     "wp_pick_team": "Angels"
+  },
+  {
+    "away_dark_horse": "Gary S\u00e1nchez",
+    "away_ml": 119,
+    "away_pitcher": "Shane Drohan",
+    "away_pitcher_xfip": 3.43,
+    "away_rest_days": 1,
+    "away_team": "Brewers",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786672514,
+    "game_date": "2026-08-13",
+    "game_time_et": "10:10 PM ET",
+    "home_dark_horse": "Max Muncy",
+    "home_ml": -140,
+    "home_pitcher": "Roki Sasaki",
+    "home_pitcher_xfip": 4.4,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.0",
+    "pick_odds": 119,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Significant pitching advantage; Underdog value play",
+    "wp_pick": "Brewers +1.5",
+    "wp_pick_team": "Brewers"
   }
 ]
