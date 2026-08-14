@@ -25,5 +25,32 @@
     "potd_reasoning": "Strong model edge (59.4%)",
     "wp_pick": "Cubs moneyline",
     "wp_pick_team": "Cubs"
+  },
+  {
+    "away_dark_horse": "Griffin Conine",
+    "away_ml": 100,
+    "away_pitcher": "Sandy Alcantara",
+    "away_pitcher_xfip": 3.85,
+    "away_rest_days": 1,
+    "away_team": "Marlins",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786744508,
+    "game_date": "2026-08-14",
+    "game_time_et": "6:10 PM ET",
+    "home_dark_horse": "JJ Bleday",
+    "home_ml": -111,
+    "home_pitcher": "Chase Burns",
+    "home_pitcher_xfip": 3.36,
+    "home_rest_days": 1,
+    "home_team": "Reds",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": true,
+    "over_under": "Under 8.0",
+    "pick_odds": 100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model sees 5.8pp more value than market; Strong Favourite badge; Underdog value play",
+    "wp_pick": "Marlins +1.5",
+    "wp_pick_team": "Marlins"
   }
 ]
