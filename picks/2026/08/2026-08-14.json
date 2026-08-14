@@ -1,0 +1,29 @@
+[
+  {
+    "away_dark_horse": "Everson Pereira",
+    "away_ml": 153,
+    "away_pitcher": "Matthew Liberatore",
+    "away_pitcher_xfip": 4.32,
+    "away_rest_days": 1,
+    "away_team": "Cardinals",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786730707,
+    "game_date": "2026-08-14",
+    "game_time_et": "2:20 PM ET",
+    "home_dark_horse": "Tyrone Taylor",
+    "home_ml": -180,
+    "home_pitcher": "Clay Holmes",
+    "home_pitcher_xfip": 3.58,
+    "home_rest_days": 1,
+    "home_team": "Cubs",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -180,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (59.4%)",
+    "wp_pick": "Cubs moneyline",
+    "wp_pick_team": "Cubs"
+  }
+]
