@@ -79,5 +79,32 @@
     "potd_reasoning": "Strong model edge (66.7%); Significant pitching advantage",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Mickey Moniak",
+    "away_ml": 141,
+    "away_pitcher": "Michael Lorenzen",
+    "away_pitcher_xfip": 4.82,
+    "away_rest_days": 1,
+    "away_team": "Rockies",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1786823410,
+    "game_date": "2026-08-15",
+    "game_time_et": "4:05 PM ET",
+    "home_dark_horse": "Osleivis Basabe",
+    "home_ml": -167,
+    "home_pitcher": "Logan Webb",
+    "home_pitcher_xfip": 3.36,
+    "home_rest_days": 1,
+    "home_team": "Giants",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -167,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (64.5%); Significant pitching advantage",
+    "wp_pick": "Giants moneyline",
+    "wp_pick_team": "Giants"
   }
 ]
