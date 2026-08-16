@@ -214,5 +214,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "White Sox +1.5",
     "wp_pick_team": "White Sox"
+  },
+  {
+    "away_dark_horse": "Bryce Harper",
+    "away_ml": -108,
+    "away_pitcher": "Andrew Painter",
+    "away_pitcher_xfip": 4.64,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786902911,
+    "game_date": "2026-08-16",
+    "game_time_et": "2:10 PM ET",
+    "home_dark_horse": "Kody Clemens",
+    "home_ml": 100,
+    "home_pitcher": "Dean Kremer",
+    "home_pitcher_xfip": 4.34,
+    "home_rest_days": 1,
+    "home_team": "Twins",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 9.5",
+    "pick_odds": 100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Twins +1.5",
+    "wp_pick_team": "Twins"
   }
 ]
