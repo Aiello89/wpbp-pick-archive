@@ -322,5 +322,32 @@
     "potd_reasoning": "Strong model edge (59.5%)",
     "wp_pick": "Giants moneyline",
     "wp_pick_team": "Giants"
+  },
+  {
+    "away_dark_horse": "John Rave",
+    "away_ml": -111,
+    "away_pitcher": "Noah Cameron",
+    "away_pitcher_xfip": 3.8,
+    "away_rest_days": 1,
+    "away_team": "Royals",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1786910111,
+    "game_date": "2026-08-16",
+    "game_time_et": "4:07 PM ET",
+    "home_dark_horse": "Jose Siri",
+    "home_ml": 100,
+    "home_pitcher": "Ryan Johnson",
+    "home_pitcher_xfip": 5.52,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.5",
+    "pick_odds": 100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Angels +1.5",
+    "wp_pick_team": "Angels"
   }
 ]
