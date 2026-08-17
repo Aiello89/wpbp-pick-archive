@@ -106,5 +106,32 @@
     "potd_reasoning": "Model sees 14.0pp more value than market; Underdog value play",
     "wp_pick": "Marlins +1.5",
     "wp_pick_team": "Marlins"
+  },
+  {
+    "away_dark_horse": "Eduardo Valencia",
+    "away_ml": -105,
+    "away_pitcher": "Framber Valdez",
+    "away_pitcher_xfip": 4.27,
+    "away_rest_days": 1,
+    "away_team": "Tigers",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787007006,
+    "game_date": "2026-08-17",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Esmerlyn Valdez",
+    "home_ml": 100,
+    "home_pitcher": "Carmen Mlodzinski",
+    "home_pitcher_xfip": 3.76,
+    "home_rest_days": 1,
+    "home_team": "Pirates",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.5",
+    "pick_odds": 100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Pirates +1.5",
+    "wp_pick_team": "Pirates"
   }
 ]
