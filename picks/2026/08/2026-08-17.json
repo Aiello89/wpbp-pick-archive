@@ -241,5 +241,32 @@
     "potd_reasoning": "Strong model edge (59.5%)",
     "wp_pick": "Braves moneyline",
     "wp_pick_team": "Braves"
+  },
+  {
+    "away_dark_horse": "Miguel Vargas",
+    "away_ml": 131,
+    "away_pitcher": "Luis Castillo",
+    "away_pitcher_xfip": 4.12,
+    "away_rest_days": 1,
+    "away_team": "White Sox",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787010607,
+    "game_date": "2026-08-17",
+    "game_time_et": "8:05 PM ET",
+    "home_dark_horse": "Tyrone Taylor",
+    "home_ml": -155,
+    "home_pitcher": "Shota Imanaga",
+    "home_pitcher_xfip": 3.98,
+    "home_rest_days": 1,
+    "home_team": "Cubs",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.0",
+    "pick_odds": 131,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "White Sox +1.5",
+    "wp_pick_team": "White Sox"
   }
 ]
