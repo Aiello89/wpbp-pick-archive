@@ -349,5 +349,32 @@
     "potd_reasoning": "Model sees 7.2pp more value than market; Underdog value play",
     "wp_pick": "White Sox +1.5",
     "wp_pick_team": "White Sox"
+  },
+  {
+    "away_dark_horse": "Jose Siri",
+    "away_ml": 138,
+    "away_pitcher": "George Klassen",
+    "away_pitcher_xfip": 6.12,
+    "away_rest_days": 1,
+    "away_team": "Angels",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787097311,
+    "game_date": "2026-08-18",
+    "game_time_et": "8:10 PM ET",
+    "home_dark_horse": "Christian Walker",
+    "home_ml": -163,
+    "home_pitcher": "Cristian Javier",
+    "home_pitcher_xfip": 5.17,
+    "home_rest_days": 1,
+    "home_team": "Astros",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 9.0",
+    "pick_odds": -163,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (58.6%); Significant pitching advantage",
+    "wp_pick": "Astros moneyline",
+    "wp_pick_team": "Astros"
   }
 ]
