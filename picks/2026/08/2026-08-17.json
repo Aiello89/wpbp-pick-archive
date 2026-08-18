@@ -268,5 +268,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "White Sox +1.5",
     "wp_pick_team": "White Sox"
+  },
+  {
+    "away_dark_horse": "Max Muncy",
+    "away_ml": -257,
+    "away_pitcher": "Blake Snell",
+    "away_pitcher_xfip": 0.84,
+    "away_rest_days": 1,
+    "away_team": "Dodgers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787012708,
+    "game_date": "2026-08-17",
+    "game_time_et": "8:40 PM ET",
+    "home_dark_horse": "Mickey Moniak",
+    "home_ml": 218,
+    "home_pitcher": "Tomoyuki Sugano",
+    "home_pitcher_xfip": 4.77,
+    "home_rest_days": 1,
+    "home_team": "Rockies",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 11.0",
+    "pick_odds": -257,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (68.2%); Significant pitching advantage",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
