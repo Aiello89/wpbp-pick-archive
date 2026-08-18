@@ -1,0 +1,29 @@
+[
+  {
+    "away_dark_horse": "Luis Garc\u00eda Jr.",
+    "away_ml": -106,
+    "away_pitcher": "Carlos Rod\u00f3n",
+    "away_pitcher_xfip": 3.52,
+    "away_rest_days": 1,
+    "away_team": "Yankees",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787091606,
+    "game_date": "2026-08-18",
+    "game_time_et": "6:35 PM ET",
+    "home_dark_horse": "Christian Encarnacion-Strand",
+    "home_ml": 100,
+    "home_pitcher": "Shane Baz",
+    "home_pitcher_xfip": 3.43,
+    "home_rest_days": 1,
+    "home_team": "Orioles",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.5",
+    "pick_odds": 100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Orioles +1.5",
+    "wp_pick_team": "Orioles"
+  }
+]
