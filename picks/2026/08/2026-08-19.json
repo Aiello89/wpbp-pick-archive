@@ -106,5 +106,32 @@
     "potd_reasoning": "Model sees 5.3pp more value than market; Underdog value play",
     "wp_pick": "White Sox +1.5",
     "wp_pick_team": "White Sox"
+  },
+  {
+    "away_dark_horse": "Corbin Carroll",
+    "away_ml": 135,
+    "away_pitcher": "Brandon Pfaadt",
+    "away_pitcher_xfip": 3.88,
+    "away_rest_days": 1,
+    "away_team": "Diamondbacks",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787169307,
+    "game_date": "2026-08-19",
+    "game_time_et": "4:10 PM ET",
+    "home_dark_horse": "Wilyer Abreu",
+    "home_ml": -159,
+    "home_pitcher": "Payton Tolle",
+    "home_pitcher_xfip": 3.29,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 8.0",
+    "pick_odds": -159,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (61.4%)",
+    "wp_pick": "Red Sox moneyline",
+    "wp_pick_team": "Red Sox"
   }
 ]
