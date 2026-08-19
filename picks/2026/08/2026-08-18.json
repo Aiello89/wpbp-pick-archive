@@ -376,5 +376,32 @@
     "potd_reasoning": "Strong model edge (58.6%); Significant pitching advantage",
     "wp_pick": "Astros moneyline",
     "wp_pick_team": "Astros"
+  },
+  {
+    "away_dark_horse": "Max Muncy",
+    "away_ml": -190,
+    "away_pitcher": "Eric Lauer",
+    "away_pitcher_xfip": 5.05,
+    "away_rest_days": 1,
+    "away_team": "Dodgers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787099108,
+    "game_date": "2026-08-18",
+    "game_time_et": "8:40 PM ET",
+    "home_dark_horse": "Mickey Moniak",
+    "home_ml": 161,
+    "home_pitcher": "Ryan Feltner",
+    "home_pitcher_xfip": 5.04,
+    "home_rest_days": 1,
+    "home_team": "Rockies",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 11.5",
+    "pick_odds": -190,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (69.2%)",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
