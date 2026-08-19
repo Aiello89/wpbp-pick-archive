@@ -133,5 +133,32 @@
     "potd_reasoning": "Strong model edge (61.4%)",
     "wp_pick": "Red Sox moneyline",
     "wp_pick_team": "Red Sox"
+  },
+  {
+    "away_dark_horse": "Griffin Conine",
+    "away_ml": 119,
+    "away_pitcher": "Sandy Alcantara",
+    "away_pitcher_xfip": 3.87,
+    "away_rest_days": 1,
+    "away_team": "Marlins",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787176207,
+    "game_date": "2026-08-19",
+    "game_time_et": "6:05 PM ET",
+    "home_dark_horse": "Bryce Harper",
+    "home_ml": -140,
+    "home_pitcher": "Aaron Nola",
+    "home_pitcher_xfip": 4.27,
+    "home_rest_days": 1,
+    "home_team": "Phillies",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": true,
+    "over_under": "Over 9.0",
+    "pick_odds": 119,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model sees 11.2pp more value than market; Strong Favourite badge; Underdog value play",
+    "wp_pick": "Marlins +1.5",
+    "wp_pick_team": "Marlins"
   }
 ]
