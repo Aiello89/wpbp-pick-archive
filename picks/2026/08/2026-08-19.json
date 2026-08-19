@@ -1,0 +1,29 @@
+[
+  {
+    "away_dark_horse": "Eduardo Valencia",
+    "away_ml": 130,
+    "away_pitcher": "Jackson Jobe",
+    "away_pitcher_xfip": 4.85,
+    "away_rest_days": 1,
+    "away_team": "Tigers",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787156406,
+    "game_date": "2026-08-19",
+    "game_time_et": "12:35 PM ET",
+    "home_dark_horse": "Rafael Flores Jr.",
+    "home_ml": -154,
+    "home_pitcher": "Paul Skenes",
+    "home_pitcher_xfip": 3.08,
+    "home_rest_days": 1,
+    "home_team": "Pirates",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.0",
+    "pick_odds": 130,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Tigers +1.5",
+    "wp_pick_team": "Tigers"
+  }
+]
