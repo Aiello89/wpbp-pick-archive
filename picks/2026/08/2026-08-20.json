@@ -187,5 +187,32 @@
     "potd_reasoning": "Strong model edge (61.3%); Model sees 10.3pp more value than market; Strong Favourite badge",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Abimelec Ortiz",
+    "away_ml": 153,
+    "away_pitcher": "Andrew Alvarez",
+    "away_pitcher_xfip": 3.29,
+    "away_rest_days": 1,
+    "away_team": "Nationals",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787269808,
+    "game_date": "2026-08-20",
+    "game_time_et": "8:05 PM ET",
+    "home_dark_horse": "Justin Foscue",
+    "home_ml": -181,
+    "home_pitcher": "Jacob deGrom",
+    "home_pitcher_xfip": 3.12,
+    "home_rest_days": 1,
+    "home_team": "Rangers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.5",
+    "pick_odds": 153,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model sees 17.1pp more value than market; Strong Favourite badge; Underdog value play",
+    "wp_pick": "Nationals +1.5",
+    "wp_pick_team": "Nationals"
   }
 ]
