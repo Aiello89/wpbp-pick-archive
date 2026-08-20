@@ -160,5 +160,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Mariners +1.5",
     "wp_pick_team": "Mariners"
+  },
+  {
+    "away_dark_horse": "Luis Garc\u00eda Jr.",
+    "away_ml": -104,
+    "away_pitcher": "Gerrit Cole",
+    "away_pitcher_xfip": 3.28,
+    "away_rest_days": 1,
+    "away_team": "Yankees",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787264410,
+    "game_date": "2026-08-20",
+    "game_time_et": "6:35 PM ET",
+    "home_dark_horse": "Christian Encarnacion-Strand",
+    "home_ml": 100,
+    "home_pitcher": "Kyle Bradish",
+    "home_pitcher_xfip": 3.95,
+    "home_rest_days": 1,
+    "home_team": "Orioles",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -104,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (61.3%); Model sees 10.3pp more value than market; Strong Favourite badge",
+    "wp_pick": "Yankees moneyline",
+    "wp_pick_team": "Yankees"
   }
 ]
