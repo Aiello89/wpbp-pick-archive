@@ -52,5 +52,32 @@
     "potd_reasoning": "Model sees 11.5pp more value than market; Underdog value play",
     "wp_pick": "Cardinals +1.5",
     "wp_pick_team": "Cardinals"
+  },
+  {
+    "away_dark_horse": "Alejandro Kirk",
+    "away_ml": 164,
+    "away_pitcher": "Mason Fluharty",
+    "away_pitcher_xfip": 3.69,
+    "away_rest_days": 1,
+    "away_team": "Blue Jays",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787352608,
+    "game_date": "2026-08-21",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -193,
+    "home_pitcher": "Cam Schlittler",
+    "home_pitcher_xfip": 2.67,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.0",
+    "pick_odds": -193,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (66.3%); Significant pitching advantage",
+    "wp_pick": "Yankees moneyline",
+    "wp_pick_team": "Yankees"
   }
 ]
