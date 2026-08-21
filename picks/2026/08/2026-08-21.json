@@ -133,5 +133,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Nationals +1.5",
     "wp_pick_team": "Nationals"
+  },
+  {
+    "away_dark_horse": "Ryan Vilade",
+    "away_ml": 100,
+    "away_pitcher": "Freddy Peralta",
+    "away_pitcher_xfip": 4.34,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787353221,
+    "game_date": "2026-08-21",
+    "game_time_et": "7:15 PM ET",
+    "home_dark_horse": "Christian Encarnacion-Strand",
+    "home_ml": -113,
+    "home_pitcher": "Trevor Rogers",
+    "home_pitcher_xfip": 3.7,
+    "home_rest_days": 1,
+    "home_team": "Orioles",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.0",
+    "pick_odds": 100,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Rays +1.5",
+    "wp_pick_team": "Rays"
   }
 ]
