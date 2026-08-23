@@ -241,5 +241,32 @@
     "potd_reasoning": "Strong model edge (62.9%); Significant pitching advantage",
     "wp_pick": "Guardians moneyline",
     "wp_pick_team": "Guardians"
+  },
+  {
+    "away_dark_horse": "Willy Adames",
+    "away_ml": 189,
+    "away_pitcher": "Matt Wilkinson",
+    "away_pitcher_xfip": 3.17,
+    "away_rest_days": 1,
+    "away_team": "Giants",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787511616,
+    "game_date": "2026-08-23",
+    "game_time_et": "3:15 PM ET",
+    "home_dark_horse": "Wilyer Abreu",
+    "home_ml": -204,
+    "home_pitcher": "Jake Bennett",
+    "home_pitcher_xfip": 3.37,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 8.5",
+    "pick_odds": -204,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (65.0%)",
+    "wp_pick": "Red Sox moneyline",
+    "wp_pick_team": "Red Sox"
   }
 ]
