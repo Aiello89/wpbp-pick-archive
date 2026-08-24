@@ -52,5 +52,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Marlins +1.5",
     "wp_pick_team": "Marlins"
+  },
+  {
+    "away_dark_horse": "Zac Veen",
+    "away_ml": 180,
+    "away_pitcher": "Ryan Feltner",
+    "away_pitcher_xfip": 5.08,
+    "away_rest_days": 1,
+    "away_team": "Rockies",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787610615,
+    "game_date": "2026-08-24",
+    "game_time_et": "6:45 PM ET",
+    "home_dark_horse": "Andr\u00e9s Chaparro",
+    "home_ml": -194,
+    "home_pitcher": "Cade Cavalli",
+    "home_pitcher_xfip": 3.4,
+    "home_rest_days": 1,
+    "home_team": "Nationals",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -194,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (71.9%); Model sees 5.9pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Nationals moneyline",
+    "wp_pick_team": "Nationals"
   }
 ]
