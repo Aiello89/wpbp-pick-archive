@@ -79,5 +79,32 @@
     "potd_reasoning": "Strong model edge (71.9%); Model sees 5.9pp more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Nationals moneyline",
     "wp_pick_team": "Nationals"
+  },
+  {
+    "away_dark_horse": "Justin Foscue",
+    "away_ml": 116,
+    "away_pitcher": "Kumar Rocker",
+    "away_pitcher_xfip": 4.27,
+    "away_rest_days": 1,
+    "away_team": "Rangers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787613909,
+    "game_date": "2026-08-24",
+    "game_time_et": "7:40 PM ET",
+    "home_dark_horse": "Randal Grichuk",
+    "home_ml": -124,
+    "home_pitcher": "Jos\u00e9 Urquidy",
+    "home_pitcher_xfip": 2.94,
+    "home_rest_days": 1,
+    "home_team": "White Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -124,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (62.0%); Model sees 6.7pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "White Sox moneyline",
+    "wp_pick_team": "White Sox"
   }
 ]
