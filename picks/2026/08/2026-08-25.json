@@ -187,5 +187,32 @@
     "potd_reasoning": "Strong model edge (65.5%); Model sees 5.0pp more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Dodgers moneyline",
     "wp_pick_team": "Dodgers"
+  },
+  {
+    "away_dark_horse": "Justin Foscue",
+    "away_ml": -111,
+    "away_pitcher": "Jacob deGrom",
+    "away_pitcher_xfip": 3.03,
+    "away_rest_days": 1,
+    "away_team": "Rangers",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787700312,
+    "game_date": "2026-08-25",
+    "game_time_et": "7:40 PM ET",
+    "home_dark_horse": "Randal Grichuk",
+    "home_ml": 103,
+    "home_pitcher": "Anthony Kay",
+    "home_pitcher_xfip": 4.62,
+    "home_rest_days": 1,
+    "home_team": "White Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.0",
+    "pick_odds": 103,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "White Sox +1.5",
+    "wp_pick_team": "White Sox"
   }
 ]
