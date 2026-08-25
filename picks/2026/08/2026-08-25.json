@@ -52,5 +52,32 @@
     "potd_reasoning": "Strong model edge (63.0%); Model sees 4.7pp more value than market; Significant pitching advantage",
     "wp_pick": "Red Sox moneyline",
     "wp_pick_team": "Red Sox"
+  },
+  {
+    "away_dark_horse": "Zac Veen",
+    "away_ml": 147,
+    "away_pitcher": "Mason Adams",
+    "away_pitcher_xfip": 5.0,
+    "away_rest_days": 1,
+    "away_team": "Rockies",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787697018,
+    "game_date": "2026-08-25",
+    "game_time_et": "6:45 PM ET",
+    "home_dark_horse": "Andr\u00e9s Chaparro",
+    "home_ml": -157,
+    "home_pitcher": "Andrew Alvarez",
+    "home_pitcher_xfip": 3.43,
+    "home_rest_days": 1,
+    "home_team": "Nationals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -157,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (62.0%); Significant pitching advantage",
+    "wp_pick": "Nationals moneyline",
+    "wp_pick_team": "Nationals"
   }
 ]
