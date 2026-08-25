@@ -79,5 +79,32 @@
     "potd_reasoning": "Strong model edge (62.0%); Significant pitching advantage",
     "wp_pick": "Nationals moneyline",
     "wp_pick_team": "Nationals"
+  },
+  {
+    "away_dark_horse": "Christian Walker",
+    "away_ml": 131,
+    "away_pitcher": "Ethan Pecko",
+    "away_pitcher_xfip": 4.26,
+    "away_rest_days": 1,
+    "away_team": "Astros",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787698207,
+    "game_date": "2026-08-25",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -140,
+    "home_pitcher": "Will Warren",
+    "home_pitcher_xfip": 4.03,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.5",
+    "pick_odds": 131,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Astros +1.5",
+    "wp_pick_team": "Astros"
   }
 ]
