@@ -241,5 +241,32 @@
     "potd_reasoning": "Strong model edge (61.3%)",
     "wp_pick": "Twins moneyline",
     "wp_pick_team": "Twins"
+  },
+  {
+    "away_dark_horse": "JJ Bleday",
+    "away_ml": -170,
+    "away_pitcher": "Chase Burns",
+    "away_pitcher_xfip": 3.16,
+    "away_rest_days": 1,
+    "away_team": "Reds",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787621416,
+    "game_date": "2026-08-24",
+    "game_time_et": "9:45 PM ET",
+    "home_dark_horse": "Jonah Cox",
+    "home_ml": 158,
+    "home_pitcher": "Carson Whisenhunt",
+    "home_pitcher_xfip": 5.41,
+    "home_rest_days": 1,
+    "home_team": "Giants",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -170,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (62.6%); Significant pitching advantage",
+    "wp_pick": "Reds moneyline",
+    "wp_pick_team": "Reds"
   }
 ]
