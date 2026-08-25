@@ -106,5 +106,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Astros +1.5",
     "wp_pick_team": "Astros"
+  },
+  {
+    "away_dark_horse": "John Rave",
+    "away_ml": 120,
+    "away_pitcher": "Seth Lugo",
+    "away_pitcher_xfip": 4.17,
+    "away_rest_days": 1,
+    "away_team": "Royals",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787698511,
+    "game_date": "2026-08-25",
+    "game_time_et": "7:07 PM ET",
+    "home_dark_horse": "Daz Cameron",
+    "home_ml": -129,
+    "home_pitcher": "Max Scherzer",
+    "home_pitcher_xfip": 5.49,
+    "home_rest_days": 1,
+    "home_team": "Blue Jays",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.0",
+    "pick_odds": 120,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (58.2%); Model sees 12.8pp more value than market; Significant pitching advantage; Strong Favourite badge; Underdog value play",
+    "wp_pick": "Royals moneyline",
+    "wp_pick_team": "Royals"
   }
 ]
