@@ -322,5 +322,32 @@
     "potd_reasoning": "Strong model edge (59.9%); Model sees 5.3pp more value than market; Strong Favourite badge",
     "wp_pick": "Dodgers moneyline",
     "wp_pick_team": "Dodgers"
+  },
+  {
+    "away_dark_horse": "Joc Pederson",
+    "away_ml": 110,
+    "away_pitcher": "MacKenzie Gore",
+    "away_pitcher_xfip": 3.69,
+    "away_rest_days": 1,
+    "away_team": "Rangers",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787786708,
+    "game_date": "2026-08-26",
+    "game_time_et": "7:40 PM ET",
+    "home_dark_horse": "Randal Grichuk",
+    "home_ml": -118,
+    "home_pitcher": "Sean Burke",
+    "home_pitcher_xfip": 3.51,
+    "home_rest_days": 1,
+    "home_team": "White Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 8.0",
+    "pick_odds": 110,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Rangers +1.5",
+    "wp_pick_team": "Rangers"
   }
 ]
