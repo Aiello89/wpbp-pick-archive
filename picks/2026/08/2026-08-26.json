@@ -79,5 +79,32 @@
     "potd_reasoning": "Strong model edge (63.9%); Model sees 9.8pp more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Giants moneyline",
     "wp_pick_team": "Giants"
+  },
+  {
+    "away_dark_horse": "Nathaniel Lowe",
+    "away_ml": -135,
+    "away_pitcher": "Joey Cantillo",
+    "away_pitcher_xfip": 3.92,
+    "away_rest_days": 1,
+    "away_team": "Guardians",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787774108,
+    "game_date": "2026-08-26",
+    "game_time_et": "4:07 PM ET",
+    "home_dark_horse": "Mike Trout",
+    "home_ml": 126,
+    "home_pitcher": "Grayson Rodriguez",
+    "home_pitcher_xfip": 4.59,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -135,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (63.4%); Model sees 5.9pp more value than market; Strong Favourite badge",
+    "wp_pick": "Guardians moneyline",
+    "wp_pick_team": "Guardians"
   }
 ]
