@@ -241,5 +241,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Orioles +1.5",
     "wp_pick_team": "Orioles"
+  },
+  {
+    "away_dark_horse": "Nathaniel Lowe",
+    "away_ml": -140,
+    "away_pitcher": "Gavin Williams",
+    "away_pitcher_xfip": 3.3,
+    "away_rest_days": 1,
+    "away_team": "Guardians",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787707508,
+    "game_date": "2026-08-25",
+    "game_time_et": "9:38 PM ET",
+    "home_dark_horse": "Mike Trout",
+    "home_ml": 131,
+    "home_pitcher": "Walbert Ure\u00f1a",
+    "home_pitcher_xfip": 3.83,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.0",
+    "pick_odds": -140,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (60.6%)",
+    "wp_pick": "Guardians moneyline",
+    "wp_pick_team": "Guardians"
   }
 ]
