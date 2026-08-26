@@ -160,5 +160,32 @@
     "potd_reasoning": "Model sees 6.4pp more value than market; Underdog value play",
     "wp_pick": "Pirates +1.5",
     "wp_pick_team": "Pirates"
+  },
+  {
+    "away_dark_horse": "Wilyer Abreu",
+    "away_ml": -124,
+    "away_pitcher": "Sonny Gray",
+    "away_pitcher_xfip": 3.69,
+    "away_rest_days": 1,
+    "away_team": "Red Sox",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787783108,
+    "game_date": "2026-08-26",
+    "game_time_et": "6:40 PM ET",
+    "home_dark_horse": "Griffin Conine",
+    "home_ml": 115,
+    "home_pitcher": "Ryan Gusto",
+    "home_pitcher_xfip": 3.89,
+    "home_rest_days": 1,
+    "home_team": "Marlins",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.5",
+    "pick_odds": 115,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Marlins +1.5",
+    "wp_pick_team": "Marlins"
   }
 ]
