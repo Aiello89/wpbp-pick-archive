@@ -349,5 +349,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Rangers +1.5",
     "wp_pick_team": "Rangers"
+  },
+  {
+    "away_dark_horse": "Christian Encarnacion-Strand",
+    "away_ml": -106,
+    "away_pitcher": "Kyle Bradish",
+    "away_pitcher_xfip": 4.08,
+    "away_rest_days": 1,
+    "away_team": "Orioles",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787787012,
+    "game_date": "2026-08-26",
+    "game_time_et": "7:45 PM ET",
+    "home_dark_horse": "Joshua B\u00e1ez",
+    "home_ml": -101,
+    "home_pitcher": "Michael McGreevy",
+    "home_pitcher_xfip": 4.13,
+    "home_rest_days": 1,
+    "home_team": "Cardinals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 8.5",
+    "pick_odds": -101,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Cardinals +1.5",
+    "wp_pick_team": "Cardinals"
   }
 ]
