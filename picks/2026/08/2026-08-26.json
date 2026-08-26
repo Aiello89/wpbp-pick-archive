@@ -214,5 +214,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Rockies +1.5",
     "wp_pick_team": "Rockies"
+  },
+  {
+    "away_dark_horse": "Christian Walker",
+    "away_ml": 108,
+    "away_pitcher": "Peter Lambert",
+    "away_pitcher_xfip": 3.88,
+    "away_rest_days": 1,
+    "away_team": "Astros",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787784607,
+    "game_date": "2026-08-26",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -116,
+    "home_pitcher": "Elmer Rodr\u00edguez",
+    "home_pitcher_xfip": 5.23,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 9.0",
+    "pick_odds": 108,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Significant pitching advantage; Underdog value play",
+    "wp_pick": "Astros +1.5",
+    "wp_pick_team": "Astros"
   }
 ]
