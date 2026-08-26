@@ -52,5 +52,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Diamondbacks +1.5",
     "wp_pick_team": "Diamondbacks"
+  },
+  {
+    "away_dark_horse": "JJ Bleday",
+    "away_ml": 110,
+    "away_pitcher": "Nick Lodolo",
+    "away_pitcher_xfip": 5.04,
+    "away_rest_days": 1,
+    "away_team": "Reds",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787772612,
+    "game_date": "2026-08-26",
+    "game_time_et": "3:45 PM ET",
+    "home_dark_horse": "Jonah Cox",
+    "home_ml": -118,
+    "home_pitcher": "Logan Webb",
+    "home_pitcher_xfip": 3.42,
+    "home_rest_days": 1,
+    "home_team": "Giants",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.0",
+    "pick_odds": -118,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (63.9%); Model sees 9.8pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Giants moneyline",
+    "wp_pick_team": "Giants"
   }
 ]
