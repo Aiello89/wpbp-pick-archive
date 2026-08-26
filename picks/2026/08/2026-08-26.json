@@ -268,5 +268,32 @@
     "potd_reasoning": "Model sees 8.1pp more value than market; Underdog value play",
     "wp_pick": "Royals +1.5",
     "wp_pick_team": "Royals"
+  },
+  {
+    "away_dark_horse": "Gary S\u00e1nchez",
+    "away_ml": -154,
+    "away_pitcher": "Dustin May",
+    "away_pitcher_xfip": 3.44,
+    "away_rest_days": 1,
+    "away_team": "Brewers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787784913,
+    "game_date": "2026-08-26",
+    "game_time_et": "7:10 PM ET",
+    "home_dark_horse": "Luis Robert Jr.",
+    "home_ml": 144,
+    "home_pitcher": "Robert Stock",
+    "home_pitcher_xfip": 4.19,
+    "home_rest_days": 1,
+    "home_team": "Mets",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -154,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (62.5%)",
+    "wp_pick": "Brewers moneyline",
+    "wp_pick_team": "Brewers"
   }
 ]
