@@ -52,5 +52,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Cardinals +1.5",
     "wp_pick_team": "Cardinals"
+  },
+  {
+    "away_dark_horse": "Christian Walker",
+    "away_ml": 142,
+    "away_pitcher": "Hayden Wesneski",
+    "away_pitcher_xfip": 3.71,
+    "away_rest_days": 1,
+    "away_team": "Astros",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787871007,
+    "game_date": "2026-08-27",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -153,
+    "home_pitcher": "Gerrit Cole",
+    "home_pitcher_xfip": 3.24,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -153,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (65.8%); Model sees 5.4pp more value than market; Strong Favourite badge",
+    "wp_pick": "Yankees moneyline",
+    "wp_pick_team": "Yankees"
   }
 ]
