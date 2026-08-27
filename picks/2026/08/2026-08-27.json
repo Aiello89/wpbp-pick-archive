@@ -133,5 +133,32 @@
     "potd_reasoning": "Strong model edge (71.2%); Model sees 4.8pp more value than market; Significant pitching advantage",
     "wp_pick": "Brewers moneyline",
     "wp_pick_team": "Brewers"
+  },
+  {
+    "away_dark_horse": "Max Muncy",
+    "away_ml": 107,
+    "away_pitcher": "Yoshinobu Yamamoto",
+    "away_pitcher_xfip": 3.35,
+    "away_rest_days": 1,
+    "away_team": "Dodgers",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787871619,
+    "game_date": "2026-08-27",
+    "game_time_et": "7:15 PM ET",
+    "home_dark_horse": "Michael Harris II",
+    "home_ml": -115,
+    "home_pitcher": "Chris Sale",
+    "home_pitcher_xfip": 2.33,
+    "home_rest_days": 1,
+    "home_team": "Braves",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 6.5",
+    "pick_odds": 107,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Dodgers +1.5",
+    "wp_pick_team": "Dodgers"
   }
 ]
