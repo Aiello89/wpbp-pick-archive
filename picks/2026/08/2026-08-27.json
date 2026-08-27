@@ -1,0 +1,29 @@
+[
+  {
+    "away_dark_horse": "Mickey Moniak",
+    "away_ml": 131,
+    "away_pitcher": "Gabriel Hughes",
+    "away_pitcher_xfip": 3.94,
+    "away_rest_days": 1,
+    "away_team": "Rockies",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787849407,
+    "game_date": "2026-08-27",
+    "game_time_et": "1:05 PM ET",
+    "home_dark_horse": "Andr\u00e9s Chaparro",
+    "home_ml": -140,
+    "home_pitcher": "Jake Irvin",
+    "home_pitcher_xfip": 4.65,
+    "home_rest_days": 1,
+    "home_team": "Nationals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 9.5",
+    "pick_odds": 131,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Rockies +1.5",
+    "wp_pick_team": "Rockies"
+  }
+]
