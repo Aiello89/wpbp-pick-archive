@@ -241,5 +241,32 @@
     "potd_reasoning": "Strong model edge (67.3%)",
     "wp_pick": "Braves moneyline",
     "wp_pick_team": "Braves"
+  },
+  {
+    "away_dark_horse": "Justin Foscue",
+    "away_ml": 185,
+    "away_pitcher": "Cody Bradford",
+    "away_pitcher_xfip": 3.27,
+    "away_rest_days": 1,
+    "away_team": "Rangers",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1787959508,
+    "game_date": "2026-08-28",
+    "game_time_et": "7:40 PM ET",
+    "home_dark_horse": "Gary S\u00e1nchez",
+    "home_ml": -199,
+    "home_pitcher": "Logan Henderson",
+    "home_pitcher_xfip": 3.18,
+    "home_rest_days": 1,
+    "home_team": "Brewers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.5",
+    "pick_odds": -199,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (67.9%)",
+    "wp_pick": "Brewers moneyline",
+    "wp_pick_team": "Brewers"
   }
 ]
