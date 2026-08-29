@@ -376,5 +376,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Athletics +1.5",
     "wp_pick_team": "Athletics"
+  },
+  {
+    "away_dark_horse": "Corbin Carroll",
+    "away_ml": -112,
+    "away_pitcher": "Kohl Drake",
+    "away_pitcher_xfip": 5.07,
+    "away_rest_days": 1,
+    "away_team": "Diamondbacks",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787968815,
+    "game_date": "2026-08-28",
+    "game_time_et": "10:15 PM ET",
+    "home_dark_horse": "Jonah Cox",
+    "home_ml": 104,
+    "home_pitcher": "Blade Tidwell",
+    "home_pitcher_xfip": 3.6,
+    "home_rest_days": 1,
+    "home_team": "Giants",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.0",
+    "pick_odds": 104,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Model sees 5.3pp more value than market; Significant pitching advantage; Underdog value play",
+    "wp_pick": "Giants +1.5",
+    "wp_pick_team": "Giants"
   }
 ]
