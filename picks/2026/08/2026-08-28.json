@@ -322,5 +322,32 @@
     "potd_reasoning": "Strong model edge (61.5%); Model sees 8.9pp more value than market; Strong Favourite badge",
     "wp_pick": "Pirates moneyline",
     "wp_pick_team": "Pirates"
+  },
+  {
+    "away_dark_horse": "Bryce Harper",
+    "away_ml": -114,
+    "away_pitcher": "Andrew Painter",
+    "away_pitcher_xfip": 4.59,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1787966708,
+    "game_date": "2026-08-28",
+    "game_time_et": "9:38 PM ET",
+    "home_dark_horse": "Mike Trout",
+    "home_ml": 106,
+    "home_pitcher": "Reid Detmers",
+    "home_pitcher_xfip": 3.29,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.5",
+    "pick_odds": 106,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Significant pitching advantage; Underdog value play",
+    "wp_pick": "Angels +1.5",
+    "wp_pick_team": "Angels"
   }
 ]
