@@ -322,5 +322,32 @@
     "potd_reasoning": "Strong model edge (61.1%)",
     "wp_pick": "Orioles moneyline",
     "wp_pick_team": "Orioles"
+  },
+  {
+    "away_dark_horse": "Bryce Harper",
+    "away_ml": -165,
+    "away_pitcher": "Zack Wheeler",
+    "away_pitcher_xfip": 3.46,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1788119709,
+    "game_date": "2026-08-30",
+    "game_time_et": "4:07 PM ET",
+    "home_dark_horse": "Mike Trout",
+    "home_ml": 153,
+    "home_pitcher": "Yusei Kikuchi",
+    "home_pitcher_xfip": 4.14,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -165,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (67.8%); Model sees 5.6pp more value than market; Strong Favourite badge",
+    "wp_pick": "Phillies moneyline",
+    "wp_pick_team": "Phillies"
   }
 ]
