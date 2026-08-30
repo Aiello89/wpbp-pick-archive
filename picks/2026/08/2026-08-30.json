@@ -241,5 +241,32 @@
     "potd_reasoning": "Model sees 7.9pp more value than market; Strong Favourite badge; Underdog value play",
     "wp_pick": "White Sox +1.5",
     "wp_pick_team": "White Sox"
+  },
+  {
+    "away_dark_horse": "Rafael Flores Jr.",
+    "away_ml": -119,
+    "away_pitcher": "Braxton Ashcraft",
+    "away_pitcher_xfip": 3.47,
+    "away_rest_days": 1,
+    "away_team": "Pirates",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1788112816,
+    "game_date": "2026-08-30",
+    "game_time_et": "2:15 PM ET",
+    "home_dark_horse": "Joshua B\u00e1ez",
+    "home_ml": 111,
+    "home_pitcher": "Matthew Liberatore",
+    "home_pitcher_xfip": 4.12,
+    "home_rest_days": 1,
+    "home_team": "Cardinals",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -119,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (66.5%); Model sees 12.2pp more value than market; Strong Favourite badge",
+    "wp_pick": "Pirates moneyline",
+    "wp_pick_team": "Pirates"
   }
 ]
