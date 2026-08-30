@@ -295,5 +295,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Astros +1.5",
     "wp_pick_team": "Astros"
+  },
+  {
+    "away_dark_horse": "Christian Encarnacion-Strand",
+    "away_ml": -147,
+    "away_pitcher": "Chris Bassitt",
+    "away_pitcher_xfip": 4.62,
+    "away_rest_days": 1,
+    "away_team": "Orioles",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1788119407,
+    "game_date": "2026-08-30",
+    "game_time_et": "4:05 PM ET",
+    "home_dark_horse": "Brian Serven",
+    "home_ml": 137,
+    "home_pitcher": "Jeffrey Springs",
+    "home_pitcher_xfip": 5.2,
+    "home_rest_days": 1,
+    "home_team": "Athletics",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 10.0",
+    "pick_odds": -147,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (61.1%)",
+    "wp_pick": "Orioles moneyline",
+    "wp_pick_team": "Orioles"
   }
 ]
