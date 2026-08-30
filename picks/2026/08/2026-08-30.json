@@ -79,5 +79,32 @@
     "potd_reasoning": "Strong model edge (67.5%); Significant pitching advantage",
     "wp_pick": "Braves moneyline",
     "wp_pick_team": "Braves"
+  },
+  {
+    "away_dark_horse": "Cal Raleigh",
+    "away_ml": -129,
+    "away_pitcher": "Logan Gilbert",
+    "away_pitcher_xfip": 3.52,
+    "away_rest_days": 1,
+    "away_team": "Mariners",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1788110710,
+    "game_date": "2026-08-30",
+    "game_time_et": "1:37 PM ET",
+    "home_dark_horse": "George Springer",
+    "home_ml": 121,
+    "home_pitcher": "Max Scherzer",
+    "home_pitcher_xfip": 5.48,
+    "home_rest_days": 1,
+    "home_team": "Blue Jays",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -129,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (63.7%); Model sees 7.4pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Mariners moneyline",
+    "wp_pick_team": "Mariners"
   }
 ]
