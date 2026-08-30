@@ -430,5 +430,32 @@
     "potd_reasoning": "Strong model edge (59.2%); Significant pitching advantage",
     "wp_pick": "Orioles moneyline",
     "wp_pick_team": "Orioles"
+  },
+  {
+    "away_dark_horse": "Bryce Harper",
+    "away_ml": -223,
+    "away_pitcher": "Cristopher S\u00e1nchez",
+    "away_pitcher_xfip": 2.71,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1788054911,
+    "game_date": "2026-08-29",
+    "game_time_et": "10:07 PM ET",
+    "home_dark_horse": "Mike Trout",
+    "home_ml": 206,
+    "home_pitcher": "Ryan Johnson",
+    "home_pitcher_xfip": 5.42,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -223,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (71.2%); Significant pitching advantage",
+    "wp_pick": "Phillies moneyline",
+    "wp_pick_team": "Phillies"
   }
 ]
