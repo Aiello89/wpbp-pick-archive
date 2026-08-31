@@ -187,5 +187,32 @@
     "potd_reasoning": "Model sees 4.3pp more value than market; Underdog value play",
     "wp_pick": "Tigers +1.5",
     "wp_pick_team": "Tigers"
+  },
+  {
+    "away_dark_horse": "Brian Serven",
+    "away_ml": 195,
+    "away_pitcher": "Gage Jump",
+    "away_pitcher_xfip": 3.83,
+    "away_rest_days": 1,
+    "away_team": "Athletics",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1788220207,
+    "game_date": "2026-08-31",
+    "game_time_et": "8:05 PM ET",
+    "home_dark_horse": "Justin Foscue",
+    "home_ml": -211,
+    "home_pitcher": "Jacob deGrom",
+    "home_pitcher_xfip": 3.14,
+    "home_rest_days": 1,
+    "home_team": "Rangers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -211,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (61.1%)",
+    "wp_pick": "Rangers moneyline",
+    "wp_pick_team": "Rangers"
   }
 ]
