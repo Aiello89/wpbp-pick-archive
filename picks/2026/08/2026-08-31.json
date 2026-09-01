@@ -22,7 +22,7 @@
     "over_under": "Under 9.0",
     "pick_odds": -193,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (63.1%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Braves moneyline",
     "wp_pick_team": "Braves"
   },
@@ -49,7 +49,7 @@
     "over_under": "Over 7.5",
     "pick_odds": -187,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (70.0%); Model sees 4.8pp more value than market; Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage",
     "wp_pick": "Rays moneyline",
     "wp_pick_team": "Rays"
   },
@@ -76,7 +76,7 @@
     "over_under": "Under 9.0",
     "pick_odds": -147,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (61.4%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Padres moneyline",
     "wp_pick_team": "Padres"
   },
@@ -103,7 +103,7 @@
     "over_under": "Over 7.5",
     "pick_odds": -148,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (65.3%); Model sees 5.6pp more value than market; Strong Favourite badge",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge",
     "wp_pick": "Red Sox moneyline",
     "wp_pick_team": "Red Sox"
   },
@@ -184,7 +184,7 @@
     "over_under": "Under 9.0",
     "pick_odds": 116,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Model sees 4.3pp more value than market; Underdog value play",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Tigers +1.5",
     "wp_pick_team": "Tigers"
   },
@@ -211,7 +211,7 @@
     "over_under": "Over 7.5",
     "pick_odds": -211,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (61.1%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Rangers moneyline",
     "wp_pick_team": "Rangers"
   },
@@ -292,7 +292,7 @@
     "over_under": "Over 8.0",
     "pick_odds": -121,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (60.0%); Model sees 5.3pp more value than market; Strong Favourite badge",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
   },
