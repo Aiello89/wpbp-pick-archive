@@ -22,7 +22,7 @@
     "over_under": "Over 8.0",
     "pick_odds": -208,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (65.1%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Astros moneyline",
     "wp_pick_team": "Astros"
   },
@@ -76,7 +76,7 @@
     "over_under": "Over 8.5",
     "pick_odds": -147,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (59.8%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Rangers moneyline",
     "wp_pick_team": "Rangers"
   },
@@ -103,7 +103,7 @@
     "over_under": "Under 11.0",
     "pick_odds": -153,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (66.5%); Model sees 6.1pp more value than market; Strong Favourite badge",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge",
     "wp_pick": "Rays moneyline",
     "wp_pick_team": "Rays"
   },
@@ -157,7 +157,7 @@
     "over_under": "Over 9.5",
     "pick_odds": -164,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (59.9%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Reds moneyline",
     "wp_pick_team": "Reds"
   },
@@ -211,7 +211,7 @@
     "over_under": "Over 9.5",
     "pick_odds": 158,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Model sees 11.1pp more value than market; Underdog value play",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Nationals +1.5",
     "wp_pick_team": "Nationals"
   },
@@ -238,7 +238,7 @@
     "over_under": "Over 8.5",
     "pick_odds": -153,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (58.5%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
   },
@@ -265,7 +265,7 @@
     "over_under": "Under 8.0",
     "pick_odds": 119,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Model sees 4.2pp more value than market; Underdog value play",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "White Sox +1.5",
     "wp_pick_team": "White Sox"
   },
@@ -319,7 +319,7 @@
     "over_under": "Over 7.0",
     "pick_odds": -128,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (59.4%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Brewers moneyline",
     "wp_pick_team": "Brewers"
   },
@@ -373,7 +373,7 @@
     "over_under": "Under 8.5",
     "pick_odds": -128,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (70.4%); Model sees 14.3pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Padres moneyline",
     "wp_pick_team": "Padres"
   },
@@ -400,7 +400,7 @@
     "over_under": "Over 7.5",
     "pick_odds": 122,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Model sees 7.6pp more value than market; Underdog value play",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Tigers +1.5",
     "wp_pick_team": "Tigers"
   }
