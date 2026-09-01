@@ -22,7 +22,7 @@
     "over_under": "Over 7.5",
     "pick_odds": -127,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (60.0%); Model sees 4.1pp more value than market; Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage",
     "wp_pick": "Rays moneyline",
     "wp_pick_team": "Rays"
   },
@@ -76,7 +76,7 @@
     "over_under": "Over 8.0",
     "pick_odds": -194,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (71.9%); Model sees 5.9pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Nationals moneyline",
     "wp_pick_team": "Nationals"
   },
@@ -103,7 +103,7 @@
     "over_under": "Over 8.0",
     "pick_odds": -124,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (62.0%); Model sees 6.7pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "White Sox moneyline",
     "wp_pick_team": "White Sox"
   },
@@ -130,7 +130,7 @@
     "over_under": "Under 7.5",
     "pick_odds": -161,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (64.3%); Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Guardians moneyline",
     "wp_pick_team": "Guardians"
   },
@@ -157,7 +157,7 @@
     "over_under": "Over 9.0",
     "pick_odds": -140,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (61.5%); Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Cubs moneyline",
     "wp_pick_team": "Cubs"
   },
@@ -211,7 +211,7 @@
     "over_under": "Over 7.5",
     "pick_odds": 104,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Model sees 5.1pp more value than market; Significant pitching advantage; Underdog value play",
+    "potd_reasoning": "Model sees more value than market; Significant pitching advantage; Underdog value play",
     "wp_pick": "Pirates +1.5",
     "wp_pick_team": "Pirates"
   },
@@ -238,7 +238,7 @@
     "over_under": "Under 11.0",
     "pick_odds": -140,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (61.3%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Twins moneyline",
     "wp_pick_team": "Twins"
   },
@@ -265,7 +265,7 @@
     "over_under": "Over 7.5",
     "pick_odds": -170,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (62.6%); Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Reds moneyline",
     "wp_pick_team": "Reds"
   }
