@@ -250,5 +250,33 @@
     "potd_reasoning": "Balanced matchup",
     "wp_pick": "Twins +1.5",
     "wp_pick_team": "Twins"
+  },
+  {
+    "away_dark_horse": "Brian Serven",
+    "away_ml": 183,
+    "away_pitcher": "Brady Basso",
+    "away_pitcher_xfip": 3.42,
+    "away_rest_days": 1,
+    "away_team": "Athletics",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788306606,
+    "game_date": "2026-09-01",
+    "game_time_et": "8:05 PM ET",
+    "home_dark_horse": "Justin Foscue",
+    "home_ml": -225,
+    "home_pitcher": "MacKenzie Gore",
+    "home_pitcher_xfip": 3.72,
+    "home_rest_days": 1,
+    "home_team": "Rangers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.5",
+    "pick_odds": -128,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Athletics +1.5",
+    "wp_pick_team": "Athletics"
   }
 ]
