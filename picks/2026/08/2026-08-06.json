@@ -22,7 +22,7 @@
     "over_under": "Over 9.5",
     "pick_odds": -182,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (67.8%); Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Orioles moneyline",
     "wp_pick_team": "Orioles"
   },
@@ -49,7 +49,7 @@
     "over_under": "Under 9.0",
     "pick_odds": -161,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (62.5%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Reds moneyline",
     "wp_pick_team": "Reds"
   },
@@ -103,7 +103,7 @@
     "over_under": "Over 7.5",
     "pick_odds": -117,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (60.5%); Model sees 6.6pp more value than market; Strong Favourite badge",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge",
     "wp_pick": "Brewers moneyline",
     "wp_pick_team": "Brewers"
   },
@@ -184,7 +184,7 @@
     "over_under": "Under 9.0",
     "pick_odds": -314,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (66.2%); Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Phillies moneyline",
     "wp_pick_team": "Phillies"
   },
@@ -211,7 +211,7 @@
     "over_under": "Over 8.5",
     "pick_odds": -193,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (64.3%); Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Red Sox moneyline",
     "wp_pick_team": "Red Sox"
   },
