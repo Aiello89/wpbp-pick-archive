@@ -295,5 +295,32 @@
     "potd_reasoning": "Strong model edge (60.0%); Model sees 5.3pp more value than market; Strong Favourite badge",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Bryce Harper",
+    "away_ml": -105,
+    "away_pitcher": "Aaron Nola",
+    "away_pitcher_xfip": 4.18,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Slight Lean",
+    "finalized_at_unix": 1788225913,
+    "game_date": "2026-08-31",
+    "game_time_et": "9:40 PM ET",
+    "home_dark_horse": "Corbin Carroll",
+    "home_ml": -102,
+    "home_pitcher": "Brandon Pfaadt",
+    "home_pitcher_xfip": 4.15,
+    "home_rest_days": 1,
+    "home_team": "Diamondbacks",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -102,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Diamondbacks +1.5",
+    "wp_pick_team": "Diamondbacks"
   }
 ]
