@@ -278,5 +278,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Athletics +1.5",
     "wp_pick_team": "Athletics"
+  },
+  {
+    "away_dark_horse": "Randal Grichuk",
+    "away_ml": -116,
+    "away_pitcher": "Sean Burke",
+    "away_pitcher_xfip": 3.68,
+    "away_rest_days": 1,
+    "away_team": "White Sox",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788306908,
+    "game_date": "2026-09-01",
+    "game_time_et": "8:10 PM ET",
+    "home_dark_horse": "Nelson Vel\u00e1zquez",
+    "home_ml": -104,
+    "home_pitcher": "Ronel Blanco",
+    "home_pitcher_xfip": 5.67,
+    "home_rest_days": 1,
+    "home_team": "Astros",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -170,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Astros +1.5",
+    "wp_pick_team": "Astros"
   }
 ]
