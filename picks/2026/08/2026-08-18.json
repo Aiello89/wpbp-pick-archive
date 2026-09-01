@@ -49,7 +49,7 @@
     "over_under": "Under 7.5",
     "pick_odds": -128,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (61.2%); Model sees 5.0pp more value than market; Strong Favourite badge",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge",
     "wp_pick": "Rays moneyline",
     "wp_pick_team": "Rays"
   },
@@ -76,7 +76,7 @@
     "over_under": "Under 9.0",
     "pick_odds": -112,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (65.6%); Model sees 12.7pp more value than market; Significant pitching advantage; Strong Favourite badge",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Cardinals moneyline",
     "wp_pick_team": "Cardinals"
   },
@@ -103,7 +103,7 @@
     "over_under": "Over 8.0",
     "pick_odds": -182,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (62.0%); Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Guardians moneyline",
     "wp_pick_team": "Guardians"
   },
@@ -130,7 +130,7 @@
     "over_under": "Over 8.5",
     "pick_odds": 179,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Model sees 11.0pp more value than market; Underdog value play",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Marlins +1.5",
     "wp_pick_team": "Marlins"
   },
@@ -157,7 +157,7 @@
     "over_under": "Over 8.0",
     "pick_odds": 129,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Model sees 5.4pp more value than market; Underdog value play",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Tigers +1.5",
     "wp_pick_team": "Tigers"
   },
@@ -184,7 +184,7 @@
     "over_under": "Over 7.5",
     "pick_odds": -159,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (64.8%); Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Red Sox moneyline",
     "wp_pick_team": "Red Sox"
   },
@@ -238,7 +238,7 @@
     "over_under": "Under 9.0",
     "pick_odds": 134,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Model sees 7.7pp more value than market; Underdog value play",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Athletics +1.5",
     "wp_pick_team": "Athletics"
   },
@@ -265,7 +265,7 @@
     "over_under": "Over 9.0",
     "pick_odds": -140,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (59.5%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Braves moneyline",
     "wp_pick_team": "Braves"
   },
@@ -292,7 +292,7 @@
     "over_under": "Under 7.5",
     "pick_odds": -165,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (61.0%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Brewers moneyline",
     "wp_pick_team": "Brewers"
   },
@@ -319,7 +319,7 @@
     "over_under": "Over 7.5",
     "pick_odds": 115,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Model sees 8.9pp more value than market; Strong Favourite badge; Underdog value play",
+    "potd_reasoning": "Model sees more value than market; Strong Favourite badge; Underdog value play",
     "wp_pick": "Nationals +1.5",
     "wp_pick_team": "Nationals"
   },
@@ -346,7 +346,7 @@
     "over_under": "Under 9.5",
     "pick_odds": 144,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Model sees 7.2pp more value than market; Underdog value play",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "White Sox +1.5",
     "wp_pick_team": "White Sox"
   },
@@ -373,7 +373,7 @@
     "over_under": "Over 9.0",
     "pick_odds": -163,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (58.6%); Significant pitching advantage",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Astros moneyline",
     "wp_pick_team": "Astros"
   },
@@ -400,7 +400,7 @@
     "over_under": "Under 11.5",
     "pick_odds": -190,
     "pick_odds_type": "h2h",
-    "potd_reasoning": "Strong model edge (69.2%)",
+    "potd_reasoning": "Strong model edge",
     "wp_pick": "Dodgers moneyline",
     "wp_pick_team": "Dodgers"
   }
