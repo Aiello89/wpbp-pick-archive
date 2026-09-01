@@ -268,5 +268,32 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Rockies +1.5",
     "wp_pick_team": "Rockies"
+  },
+  {
+    "away_dark_horse": "Luis Garc\u00eda Jr.",
+    "away_ml": -121,
+    "away_pitcher": "Elmer Rodr\u00edguez",
+    "away_pitcher_xfip": 5.0,
+    "away_rest_days": 1,
+    "away_team": "Yankees",
+    "confidence_tier": "Confident",
+    "finalized_at_unix": 1788225908,
+    "game_date": "2026-08-31",
+    "game_time_et": "9:38 PM ET",
+    "home_dark_horse": "Mike Trout",
+    "home_ml": 113,
+    "home_pitcher": "Walbert Ure\u00f1a",
+    "home_pitcher_xfip": 3.88,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -121,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge (60.0%); Model sees 5.3pp more value than market; Strong Favourite badge",
+    "wp_pick": "Yankees moneyline",
+    "wp_pick_team": "Yankees"
   }
 ]
