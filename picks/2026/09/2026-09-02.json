@@ -110,5 +110,33 @@
     "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Orioles moneyline",
     "wp_pick_team": "Orioles"
+  },
+  {
+    "away_dark_horse": "Bryce Harper",
+    "away_ml": -131,
+    "away_pitcher": "Andrew Painter",
+    "away_pitcher_xfip": 4.53,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788377105,
+    "game_date": "2026-09-02",
+    "game_time_et": "3:40 PM ET",
+    "home_dark_horse": "Jordan Lawlar",
+    "home_ml": 109,
+    "home_pitcher": "Taylor Clarke",
+    "home_pitcher_xfip": 3.91,
+    "home_rest_days": 1,
+    "home_team": "Diamondbacks",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.5",
+    "pick_odds": -152,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Diamondbacks +1.5",
+    "wp_pick_team": "Diamondbacks"
   }
 ]
