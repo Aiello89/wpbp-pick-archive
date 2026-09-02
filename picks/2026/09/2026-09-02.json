@@ -26,5 +26,33 @@
     "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage",
     "wp_pick": "Padres moneyline",
     "wp_pick_team": "Padres"
+  },
+  {
+    "away_dark_horse": "Michael Harris II",
+    "away_ml": -142,
+    "away_pitcher": "Grant Holmes",
+    "away_pitcher_xfip": 4.58,
+    "away_rest_days": 1,
+    "away_team": "Braves",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788367804,
+    "game_date": "2026-09-02",
+    "game_time_et": "1:05 PM ET",
+    "home_dark_horse": "Andr\u00e9s Chaparro",
+    "home_ml": 118,
+    "home_pitcher": "Brad Lord",
+    "home_pitcher_xfip": 4.31,
+    "home_rest_days": 1,
+    "home_team": "Nationals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 9.5",
+    "pick_odds": -132,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Nationals +1.5",
+    "wp_pick_team": "Nationals"
   }
 ]
