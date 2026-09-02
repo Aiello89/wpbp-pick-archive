@@ -138,5 +138,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Diamondbacks +1.5",
     "wp_pick_team": "Diamondbacks"
+  },
+  {
+    "away_dark_horse": "Dominic Canzone",
+    "away_ml": 129,
+    "away_pitcher": "Bryce Miller",
+    "away_pitcher_xfip": 3.89,
+    "away_rest_days": 1,
+    "away_team": "Mariners",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788378906,
+    "game_date": "2026-09-02",
+    "game_time_et": "4:10 PM ET",
+    "home_dark_horse": "Mickey Gasper",
+    "home_ml": -156,
+    "home_pitcher": "Patrick Sandoval",
+    "home_pitcher_xfip": 4.14,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.5",
+    "pick_odds": -178,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Mariners +1.5",
+    "wp_pick_team": "Mariners"
   }
 ]
