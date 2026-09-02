@@ -334,5 +334,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Orioles moneyline",
     "wp_pick_team": "Orioles"
+  },
+  {
+    "away_dark_horse": "Luis Garc\u00eda Jr.",
+    "away_ml": -180,
+    "away_pitcher": "Gerrit Cole",
+    "away_pitcher_xfip": 3.31,
+    "away_rest_days": 1,
+    "away_team": "Yankees",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788312306,
+    "game_date": "2026-09-01",
+    "game_time_et": "9:38 PM ET",
+    "home_dark_horse": "Mike Trout",
+    "home_ml": 148,
+    "home_pitcher": "Grayson Rodriguez",
+    "home_pitcher_xfip": 4.51,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -180,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Yankees moneyline",
+    "wp_pick_team": "Yankees"
   }
 ]
