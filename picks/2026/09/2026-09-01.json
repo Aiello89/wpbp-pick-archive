@@ -306,5 +306,33 @@
     "potd_reasoning": "Balanced matchup",
     "wp_pick": "Astros +1.5",
     "wp_pick_team": "Astros"
+  },
+  {
+    "away_dark_horse": "Christian Encarnacion-Strand",
+    "away_ml": -156,
+    "away_pitcher": "Kyle Bradish",
+    "away_pitcher_xfip": 4.12,
+    "away_rest_days": 1,
+    "away_team": "Orioles",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788308706,
+    "game_date": "2026-09-01",
+    "game_time_et": "8:40 PM ET",
+    "home_dark_horse": "Mickey Moniak",
+    "home_ml": 129,
+    "home_pitcher": "Gabriel Hughes",
+    "home_pitcher_xfip": 4.26,
+    "home_rest_days": 1,
+    "home_team": "Rockies",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 11.0",
+    "pick_odds": -156,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge",
+    "wp_pick": "Orioles moneyline",
+    "wp_pick_team": "Orioles"
   }
 ]
