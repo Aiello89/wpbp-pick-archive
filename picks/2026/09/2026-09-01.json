@@ -362,5 +362,33 @@
     "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Bryce Harper",
+    "away_ml": -137,
+    "away_pitcher": "Jes\u00fas Luzardo",
+    "away_pitcher_xfip": 2.88,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788312312,
+    "game_date": "2026-09-01",
+    "game_time_et": "9:40 PM ET",
+    "home_dark_horse": "Corbin Carroll",
+    "home_ml": 114,
+    "home_pitcher": "Eduardo Rodriguez",
+    "home_pitcher_xfip": 3.79,
+    "home_rest_days": 1,
+    "home_team": "Diamondbacks",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 7.5",
+    "pick_odds": -146,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Diamondbacks +1.5",
+    "wp_pick_team": "Diamondbacks"
   }
 ]
