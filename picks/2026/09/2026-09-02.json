@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Ty France",
+    "away_ml": -167,
+    "away_pitcher": "Casey Mize",
+    "away_pitcher_xfip": 3.52,
+    "away_rest_days": 1,
+    "away_team": "Padres",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788366307,
+    "game_date": "2026-09-02",
+    "game_time_et": "12:40 PM ET",
+    "home_dark_horse": "H\u00e9ctor Rodr\u00edguez",
+    "home_ml": 138,
+    "home_pitcher": "Brandon Williamson",
+    "home_pitcher_xfip": 5.91,
+    "home_rest_days": 1,
+    "home_team": "Reds",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 9.5",
+    "pick_odds": -167,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage",
+    "wp_pick": "Padres moneyline",
+    "wp_pick_team": "Padres"
+  }
+]
