@@ -166,5 +166,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Marlins +1.5",
     "wp_pick_team": "Marlins"
+  },
+  {
+    "away_dark_horse": "Victor Mesa Jr.",
+    "away_ml": -125,
+    "away_pitcher": "Shane McClanahan",
+    "away_pitcher_xfip": 3.5,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788479404,
+    "game_date": "2026-09-03",
+    "game_time_et": "8:05 PM ET",
+    "home_dark_horse": "Justin Foscue",
+    "home_ml": 104,
+    "home_pitcher": "Cal Quantrill",
+    "home_pitcher_xfip": 4.07,
+    "home_rest_days": 1,
+    "home_team": "Rangers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 8.0",
+    "pick_odds": -125,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market",
+    "wp_pick": "Rays moneyline",
+    "wp_pick_team": "Rays"
   }
 ]
