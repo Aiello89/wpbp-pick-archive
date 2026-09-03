@@ -1,0 +1,152 @@
+[
+  {
+    "away_score": 6,
+    "away_team": "Yankees",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 3,
+    "home_team": "Angels",
+    "pick_result": "WIN",
+    "wp_pick": "Yankees moneyline"
+  },
+  {
+    "away_score": 0,
+    "away_team": "White Sox",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 2,
+    "home_team": "Astros",
+    "pick_result": "LOSS",
+    "wp_pick": "White Sox +1.5"
+  },
+  {
+    "away_score": 9,
+    "away_team": "Brewers",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 5,
+    "home_team": "Cubs",
+    "pick_result": "WIN",
+    "wp_pick": "Brewers moneyline"
+  },
+  {
+    "away_score": 0,
+    "away_team": "Phillies",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 1,
+    "home_team": "Diamondbacks",
+    "pick_result": "WIN",
+    "wp_pick": "Diamondbacks +1.5"
+  },
+  {
+    "away_score": 8,
+    "away_team": "Cardinals",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 6,
+    "home_team": "Dodgers",
+    "pick_result": "LOSS",
+    "wp_pick": "Dodgers moneyline"
+  },
+  {
+    "away_score": 11,
+    "away_team": "Blue Jays",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 0,
+    "home_team": "Guardians",
+    "pick_result": "LOSS",
+    "wp_pick": "Guardians +1.5"
+  },
+  {
+    "away_score": 9,
+    "away_team": "Braves",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 0,
+    "home_team": "Nationals",
+    "pick_result": "LOSS",
+    "wp_pick": "Nationals +1.5"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Giants",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 4,
+    "home_team": "Pirates",
+    "pick_result": "WIN",
+    "wp_pick": "Giants +1.5"
+  },
+  {
+    "away_score": 9,
+    "away_team": "Athletics",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 2,
+    "home_team": "Rangers",
+    "pick_result": "LOSS",
+    "wp_pick": "Rangers moneyline"
+  },
+  {
+    "away_score": 10,
+    "away_team": "Mets",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 4,
+    "home_team": "Rays",
+    "pick_result": "LOSS",
+    "wp_pick": "Rays moneyline"
+  },
+  {
+    "away_score": 8,
+    "away_team": "Mariners",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 3,
+    "home_team": "Red Sox",
+    "pick_result": "WIN",
+    "wp_pick": "Mariners +1.5"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Padres",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 7,
+    "home_team": "Reds",
+    "pick_result": "LOSS",
+    "wp_pick": "Padres moneyline"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Orioles",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 6,
+    "home_team": "Rockies",
+    "pick_result": "LOSS",
+    "wp_pick": "Orioles moneyline"
+  },
+  {
+    "away_score": 9,
+    "away_team": "Marlins",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 6,
+    "home_team": "Royals",
+    "pick_result": "LOSS",
+    "wp_pick": "Royals +1.5"
+  },
+  {
+    "away_score": 11,
+    "away_team": "Tigers",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-02",
+    "home_score": 6,
+    "home_team": "Twins",
+    "pick_result": "LOSS",
+    "wp_pick": "Twins +1.5"
+  }
+]
