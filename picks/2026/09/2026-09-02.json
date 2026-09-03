@@ -390,5 +390,33 @@
     "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Joshua B\u00e1ez",
+    "away_ml": 243,
+    "away_pitcher": "Brycen Mautz",
+    "away_pitcher_xfip": 3.1,
+    "away_rest_days": 1,
+    "away_team": "Cardinals",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788400507,
+    "game_date": "2026-09-02",
+    "game_time_et": "10:10 PM ET",
+    "home_dark_horse": "Max Muncy",
+    "home_ml": -306,
+    "home_pitcher": "Yoshinobu Yamamoto",
+    "home_pitcher_xfip": 3.35,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -306,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
