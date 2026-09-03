@@ -138,5 +138,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Orioles +1.5",
     "wp_pick_team": "Orioles"
+  },
+  {
+    "away_dark_horse": "Griffin Conine",
+    "away_ml": 104,
+    "away_pitcher": "Sandy Alcantara",
+    "away_pitcher_xfip": 3.83,
+    "away_rest_days": 1,
+    "away_team": "Marlins",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788477906,
+    "game_date": "2026-09-03",
+    "game_time_et": "7:40 PM ET",
+    "home_dark_horse": "Carter Jensen",
+    "home_ml": -126,
+    "home_pitcher": "Michael Wacha",
+    "home_pitcher_xfip": 3.97,
+    "home_rest_days": 1,
+    "home_team": "Royals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 9.0",
+    "pick_odds": -203,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Marlins +1.5",
+    "wp_pick_team": "Marlins"
   }
 ]
