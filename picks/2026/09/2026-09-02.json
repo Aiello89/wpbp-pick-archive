@@ -362,5 +362,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "White Sox +1.5",
     "wp_pick_team": "White Sox"
+  },
+  {
+    "away_dark_horse": "Luis Garc\u00eda Jr.",
+    "away_ml": -163,
+    "away_pitcher": "Cam Schlittler",
+    "away_pitcher_xfip": 2.71,
+    "away_rest_days": 1,
+    "away_team": "Yankees",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788398707,
+    "game_date": "2026-09-02",
+    "game_time_et": "9:38 PM ET",
+    "home_dark_horse": "Mike Trout",
+    "home_ml": 135,
+    "home_pitcher": "Reid Detmers",
+    "home_pitcher_xfip": 3.28,
+    "home_rest_days": 1,
+    "home_team": "Angels",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Under 6.5",
+    "pick_odds": -163,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge",
+    "wp_pick": "Yankees moneyline",
+    "wp_pick_team": "Yankees"
   }
 ]
