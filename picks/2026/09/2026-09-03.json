@@ -26,5 +26,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Pirates moneyline",
     "wp_pick_team": "Pirates"
+  },
+  {
+    "away_dark_horse": "George Springer",
+    "away_ml": -108,
+    "away_pitcher": "Jos\u00e9 Soriano",
+    "away_pitcher_xfip": 3.85,
+    "away_rest_days": 1,
+    "away_team": "Blue Jays",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788454506,
+    "game_date": "2026-09-03",
+    "game_time_et": "1:10 PM ET",
+    "home_dark_horse": "Nathaniel Lowe",
+    "home_ml": -111,
+    "home_pitcher": "Tanner Bibee",
+    "home_pitcher_xfip": 4.28,
+    "home_rest_days": 1,
+    "home_team": "Guardians",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": 0,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Blue Jays +1.5",
+    "wp_pick_team": "Blue Jays"
   }
 ]
