@@ -110,5 +110,33 @@
     "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Pirates moneyline",
     "wp_pick_team": "Pirates"
+  },
+  {
+    "away_dark_horse": "Mickey Gasper",
+    "away_ml": -118,
+    "away_pitcher": "Ranger Suarez",
+    "away_pitcher_xfip": 3.18,
+    "away_rest_days": 1,
+    "away_team": "Red Sox",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788562204,
+    "game_date": "2026-09-04",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Christian Encarnacion-Strand",
+    "home_ml": -102,
+    "home_pitcher": "Shane Baz",
+    "home_pitcher_xfip": 3.44,
+    "home_rest_days": 1,
+    "home_team": "Orioles",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -170,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Orioles +1.5",
+    "wp_pick_team": "Orioles"
   }
 ]
