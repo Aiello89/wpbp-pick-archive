@@ -222,5 +222,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Athletics +1.5",
     "wp_pick_team": "Athletics"
+  },
+  {
+    "away_dark_horse": "Joshua B\u00e1ez",
+    "away_ml": 234,
+    "away_pitcher": "Quinn Mathews",
+    "away_pitcher_xfip": 3.17,
+    "away_rest_days": 1,
+    "away_team": "Cardinals",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788486907,
+    "game_date": "2026-09-03",
+    "game_time_et": "10:10 PM ET",
+    "home_dark_horse": "Max Muncy",
+    "home_ml": -293,
+    "home_pitcher": "Tarik Skubal",
+    "home_pitcher_xfip": 2.6,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -293,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
