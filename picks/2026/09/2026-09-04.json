@@ -222,5 +222,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Tigers +1.5",
     "wp_pick_team": "Tigers"
+  },
+  {
+    "away_dark_horse": "Ryan Jeffers",
+    "away_ml": 108,
+    "away_pitcher": "Zebby Matthews",
+    "away_pitcher_xfip": 4.26,
+    "away_rest_days": 1,
+    "away_team": "Twins",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788564306,
+    "game_date": "2026-09-04",
+    "game_time_et": "7:40 PM ET",
+    "home_dark_horse": "Randal Grichuk",
+    "home_ml": -130,
+    "home_pitcher": "Erick Fedde",
+    "home_pitcher_xfip": 4.75,
+    "home_rest_days": 1,
+    "home_team": "White Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 9.0",
+    "pick_odds": -194,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Twins +1.5",
+    "wp_pick_team": "Twins"
   }
 ]
