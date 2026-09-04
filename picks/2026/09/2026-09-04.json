@@ -54,5 +54,33 @@
     "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Brewers moneyline",
     "wp_pick_team": "Brewers"
+  },
+  {
+    "away_dark_horse": "Michael Harris II",
+    "away_ml": -106,
+    "away_pitcher": "Chris Sale",
+    "away_pitcher_xfip": 2.27,
+    "away_rest_days": 1,
+    "away_team": "Braves",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788560706,
+    "game_date": "2026-09-04",
+    "game_time_et": "6:40 PM ET",
+    "home_dark_horse": "Bryce Harper",
+    "home_ml": -114,
+    "home_pitcher": "Cristopher S\u00e1nchez",
+    "home_pitcher_xfip": 2.66,
+    "home_rest_days": 1,
+    "home_team": "Phillies",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.0",
+    "pick_odds": -106,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge",
+    "wp_pick": "Braves moneyline",
+    "wp_pick_team": "Braves"
   }
 ]
