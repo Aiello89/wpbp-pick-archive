@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Eduardo Valencia",
+    "away_ml": 119,
+    "away_pitcher": "Keider Montero",
+    "away_pitcher_xfip": 3.93,
+    "away_rest_days": 1,
+    "away_team": "Tigers",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 1,
+    "finalized_at_unix": 1788544510,
+    "game_date": "2026-09-04",
+    "game_time_et": "2:10 PM ET",
+    "home_dark_horse": "Nathaniel Lowe",
+    "home_ml": -143,
+    "home_pitcher": "Logan Allen",
+    "home_pitcher_xfip": 4.35,
+    "home_rest_days": 1,
+    "home_team": "Guardians",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 8.0",
+    "pick_odds": -190,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Tigers +1.5",
+    "wp_pick_team": "Tigers"
+  }
+]
