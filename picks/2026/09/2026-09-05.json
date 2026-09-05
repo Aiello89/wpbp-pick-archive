@@ -334,5 +334,33 @@
     "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge; Underdog value play",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Joshua B\u00e1ez",
+    "away_ml": -126,
+    "away_pitcher": "Matthew Liberatore",
+    "away_pitcher_xfip": 4.11,
+    "away_rest_days": 1,
+    "away_team": "Cardinals",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788652505,
+    "game_date": "2026-09-05",
+    "game_time_et": "8:10 PM ET",
+    "home_dark_horse": "Adael Amador",
+    "home_ml": 104,
+    "home_pitcher": "Mason Adams",
+    "home_pitcher_xfip": 4.7,
+    "home_rest_days": 1,
+    "home_team": "Rockies",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 11.0",
+    "pick_odds": -146,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Rockies +1.5",
+    "wp_pick_team": "Rockies"
   }
 ]
