@@ -54,5 +54,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Giants +1.5",
     "wp_pick_team": "Giants"
+  },
+  {
+    "away_dark_horse": "Michael Harris II",
+    "away_ml": 137,
+    "away_pitcher": "Mart\u00edn P\u00e9rez",
+    "away_pitcher_xfip": 4.27,
+    "away_rest_days": 1,
+    "away_team": "Braves",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788645004,
+    "game_date": "2026-09-05",
+    "game_time_et": "6:05 PM ET",
+    "home_dark_horse": "Bryce Harper",
+    "home_ml": -166,
+    "home_pitcher": "Zack Wheeler",
+    "home_pitcher_xfip": 3.49,
+    "home_rest_days": 1,
+    "home_team": "Phillies",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 8.0",
+    "pick_odds": -160,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Braves +1.5",
+    "wp_pick_team": "Braves"
   }
 ]
