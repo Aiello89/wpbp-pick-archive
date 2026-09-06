@@ -362,5 +362,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Rockies +1.5",
     "wp_pick_team": "Rockies"
+  },
+  {
+    "away_dark_horse": "Andr\u00e9s Chaparro",
+    "away_ml": 153,
+    "away_pitcher": "Cade Cavalli",
+    "away_pitcher_xfip": 3.46,
+    "away_rest_days": 1,
+    "away_team": "Nationals",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788656109,
+    "game_date": "2026-09-05",
+    "game_time_et": "9:10 PM ET",
+    "home_dark_horse": "Max Muncy",
+    "home_ml": -187,
+    "home_pitcher": "Tyler Glasnow",
+    "home_pitcher_xfip": 2.84,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 7.0",
+    "pick_odds": -150,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Nationals +1.5",
+    "wp_pick_team": "Nationals"
   }
 ]
