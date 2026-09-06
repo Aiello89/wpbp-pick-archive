@@ -250,5 +250,33 @@
     "potd_reasoning": "Balanced matchup",
     "wp_pick": "Astros +1.5",
     "wp_pick_team": "Astros"
+  },
+  {
+    "away_dark_horse": "Ryan Vilade",
+    "away_ml": -111,
+    "away_pitcher": "Ian Seymour",
+    "away_pitcher_xfip": 3.51,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788718805,
+    "game_date": "2026-09-06",
+    "game_time_et": "2:35 PM ET",
+    "home_dark_horse": "Justin Foscue",
+    "home_ml": -108,
+    "home_pitcher": "MacKenzie Gore",
+    "home_pitcher_xfip": 3.76,
+    "home_rest_days": 1,
+    "home_team": "Rangers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -111,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge",
+    "wp_pick": "Rays moneyline",
+    "wp_pick_team": "Rays"
   }
 ]
