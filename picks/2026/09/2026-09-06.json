@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Gary S\u00e1nchez",
+    "away_ml": -147,
+    "away_pitcher": "Kyle Harrison",
+    "away_pitcher_xfip": 3.5,
+    "away_rest_days": 1,
+    "away_team": "Brewers",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788710408,
+    "game_date": "2026-09-06",
+    "game_time_et": "12:10 PM ET",
+    "home_dark_horse": "H\u00e9ctor Rodr\u00edguez",
+    "home_ml": 122,
+    "home_pitcher": "Brady Singer",
+    "home_pitcher_xfip": 4.61,
+    "home_rest_days": 1,
+    "home_team": "Reds",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -147,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Brewers moneyline",
+    "wp_pick_team": "Brewers"
+  }
+]
