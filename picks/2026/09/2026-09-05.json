@@ -390,5 +390,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Nationals +1.5",
     "wp_pick_team": "Nationals"
+  },
+  {
+    "away_dark_horse": "Brian Serven",
+    "away_ml": 201,
+    "away_pitcher": "Jeffrey Springs",
+    "away_pitcher_xfip": 5.23,
+    "away_rest_days": 1,
+    "away_team": "Athletics",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788657906,
+    "game_date": "2026-09-05",
+    "game_time_et": "9:40 PM ET",
+    "home_dark_horse": "Dominic Canzone",
+    "home_ml": -249,
+    "home_pitcher": "George Kirby",
+    "home_pitcher_xfip": 3.78,
+    "home_rest_days": 1,
+    "home_team": "Mariners",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -249,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Mariners moneyline",
+    "wp_pick_team": "Mariners"
   }
 ]
