@@ -166,5 +166,33 @@
     "potd_reasoning": "Balanced matchup",
     "wp_pick": "Royals +1.5",
     "wp_pick_team": "Royals"
+  },
+  {
+    "away_dark_horse": "Ryan Jeffers",
+    "away_ml": 102,
+    "away_pitcher": "Joe Ryan",
+    "away_pitcher_xfip": 3.32,
+    "away_rest_days": 1,
+    "away_team": "Twins",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788807306,
+    "game_date": "2026-09-07",
+    "game_time_et": "3:10 PM ET",
+    "home_dark_horse": "Eduardo Valencia",
+    "home_ml": -123,
+    "home_pitcher": "Troy Melton",
+    "home_pitcher_xfip": 3.98,
+    "home_rest_days": 1,
+    "home_team": "Tigers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 8.0",
+    "pick_odds": 0,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Twins +1.5",
+    "wp_pick_team": "Twins"
   }
 ]
