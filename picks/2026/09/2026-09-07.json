@@ -194,5 +194,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Twins +1.5",
     "wp_pick_team": "Twins"
+  },
+  {
+    "away_dark_horse": "CJ Abrams",
+    "away_ml": 157,
+    "away_pitcher": "Jake Irvin",
+    "away_pitcher_xfip": 4.67,
+    "away_rest_days": 1,
+    "away_team": "Nationals",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788814507,
+    "game_date": "2026-09-07",
+    "game_time_et": "5:10 PM ET",
+    "home_dark_horse": "Ty France",
+    "home_ml": -192,
+    "home_pitcher": "Nick Pivetta",
+    "home_pitcher_xfip": 1.29,
+    "home_rest_days": 1,
+    "home_team": "Padres",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -192,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Padres moneyline",
+    "wp_pick_team": "Padres"
   }
 ]
