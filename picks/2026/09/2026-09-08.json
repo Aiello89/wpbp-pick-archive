@@ -110,5 +110,33 @@
     "potd_reasoning": "Strong model edge; Model sees more value than market",
     "wp_pick": "Tigers moneyline",
     "wp_pick_team": "Tigers"
+  },
+  {
+    "away_dark_horse": "Mike Trout",
+    "away_ml": 123,
+    "away_pitcher": "Reid Detmers",
+    "away_pitcher_xfip": 3.18,
+    "away_rest_days": 1,
+    "away_team": "Angels",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788906617,
+    "game_date": "2026-09-08",
+    "game_time_et": "6:45 PM ET",
+    "home_dark_horse": "Mickey Gasper",
+    "home_ml": -149,
+    "home_pitcher": "Patrick Sandoval",
+    "home_pitcher_xfip": 4.23,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.5",
+    "pick_odds": -176,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Significant pitching advantage; Underdog value play",
+    "wp_pick": "Angels +1.5",
+    "wp_pick_team": "Angels"
   }
 ]
