@@ -390,5 +390,33 @@
     "potd_reasoning": "Balanced matchup",
     "wp_pick": "Cardinals +1.5",
     "wp_pick_team": "Cardinals"
+  },
+  {
+    "away_dark_horse": "Eugenio Su\u00e1rez",
+    "away_ml": 248,
+    "away_pitcher": "Nick Lodolo",
+    "away_pitcher_xfip": 5.1,
+    "away_rest_days": 1,
+    "away_team": "Reds",
+    "confidence_tier": "Lock",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788918908,
+    "game_date": "2026-09-08",
+    "game_time_et": "10:10 PM ET",
+    "home_dark_horse": "Max Muncy",
+    "home_ml": -313,
+    "home_pitcher": "Tarik Skubal",
+    "home_pitcher_xfip": 2.56,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -140,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Dodgers -1.5",
+    "wp_pick_team": "Dodgers"
   }
 ]
