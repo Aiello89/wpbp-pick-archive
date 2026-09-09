@@ -222,5 +222,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Mets +1.5",
     "wp_pick_team": "Mets"
+  },
+  {
+    "away_dark_horse": "Mike Trout",
+    "away_ml": 182,
+    "away_pitcher": "Ryan Johnson",
+    "away_pitcher_xfip": 5.28,
+    "away_rest_days": 1,
+    "away_team": "Angels",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788993014,
+    "game_date": "2026-09-09",
+    "game_time_et": "6:45 PM ET",
+    "home_dark_horse": "Mickey Gasper",
+    "home_ml": -223,
+    "home_pitcher": "Jake Bennett",
+    "home_pitcher_xfip": 3.35,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 9.0",
+    "pick_odds": -223,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Red Sox moneyline",
+    "wp_pick_team": "Red Sox"
   }
 ]
