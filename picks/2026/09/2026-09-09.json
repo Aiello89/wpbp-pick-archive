@@ -138,5 +138,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Rangers +1.5",
     "wp_pick_team": "Rangers"
+  },
+  {
+    "away_dark_horse": "Nathaniel Lowe",
+    "away_ml": -118,
+    "away_pitcher": "Foster Griffin",
+    "away_pitcher_xfip": 3.95,
+    "away_rest_days": 1,
+    "away_team": "Guardians",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1788992404,
+    "game_date": "2026-09-09",
+    "game_time_et": "6:35 PM ET",
+    "home_dark_horse": "Coby Mayo",
+    "home_ml": -102,
+    "home_pitcher": "Shane Baz",
+    "home_pitcher_xfip": 3.47,
+    "home_rest_days": 1,
+    "home_team": "Orioles",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 8.5",
+    "pick_odds": -176,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Orioles +1.5",
+    "wp_pick_team": "Orioles"
   }
 ]
