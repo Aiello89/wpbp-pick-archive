@@ -390,5 +390,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Pirates +1.5",
     "wp_pick_team": "Pirates"
+  },
+  {
+    "away_dark_horse": "Elly De La Cruz",
+    "away_ml": 232,
+    "away_pitcher": "Rhett Lowder",
+    "away_pitcher_xfip": 4.54,
+    "away_rest_days": 1,
+    "away_team": "Reds",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789005308,
+    "game_date": "2026-09-09",
+    "game_time_et": "10:10 PM ET",
+    "home_dark_horse": "Max Muncy",
+    "home_ml": -291,
+    "home_pitcher": "Yoshinobu Yamamoto",
+    "home_pitcher_xfip": 3.44,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -291,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
