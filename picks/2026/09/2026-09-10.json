@@ -110,5 +110,33 @@
     "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Yankees -1.5",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Esmerlyn Valdez",
+    "away_ml": -104,
+    "away_pitcher": "Jared Jones",
+    "away_pitcher_xfip": 3.66,
+    "away_rest_days": 1,
+    "away_team": "Pirates",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789082705,
+    "game_date": "2026-09-10",
+    "game_time_et": "7:40 PM ET",
+    "home_dark_horse": "Randal Grichuk",
+    "home_ml": -115,
+    "home_pitcher": "Hagen Smith",
+    "home_pitcher_xfip": 2.98,
+    "home_rest_days": 1,
+    "home_team": "White Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.5",
+    "pick_odds": 0,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Pirates +1.5",
+    "wp_pick_team": "Pirates"
   }
 ]
