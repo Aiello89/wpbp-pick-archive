@@ -278,5 +278,33 @@
     "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Brewers moneyline",
     "wp_pick_team": "Brewers"
+  },
+  {
+    "away_dark_horse": "Nathaniel Lowe",
+    "away_ml": -120,
+    "away_pitcher": "Parker Messick",
+    "away_pitcher_xfip": 3.19,
+    "away_rest_days": 1,
+    "away_team": "Guardians",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789170907,
+    "game_date": "2026-09-11",
+    "game_time_et": "8:10 PM ET",
+    "home_dark_horse": "Ryan Jeffers",
+    "home_ml": -101,
+    "home_pitcher": "Taj Bradley",
+    "home_pitcher_xfip": 3.85,
+    "home_rest_days": 1,
+    "home_team": "Twins",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.5",
+    "pick_odds": -166,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Twins +1.5",
+    "wp_pick_team": "Twins"
   }
 ]
