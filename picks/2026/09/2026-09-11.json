@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Esmerlyn Valdez",
+    "away_ml": 159,
+    "away_pitcher": "Wilber Dotel",
+    "away_pitcher_xfip": 3.17,
+    "away_rest_days": 1,
+    "away_team": "Pirates",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789149904,
+    "game_date": "2026-09-11",
+    "game_time_et": "2:20 PM ET",
+    "home_dark_horse": "Michael Conforto",
+    "home_ml": -194,
+    "home_pitcher": "Shota Imanaga",
+    "home_pitcher_xfip": 4.04,
+    "home_rest_days": 1,
+    "home_team": "Cubs",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.0",
+    "pick_odds": -134,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Significant pitching advantage; Underdog value play",
+    "wp_pick": "Pirates +1.5",
+    "wp_pick_team": "Pirates"
+  }
+]
