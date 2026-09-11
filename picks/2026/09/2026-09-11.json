@@ -54,5 +54,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Tigers moneyline",
     "wp_pick_team": "Tigers"
+  },
+  {
+    "away_dark_horse": "Mike Trout",
+    "away_ml": 133,
+    "away_pitcher": "Yusei Kikuchi",
+    "away_pitcher_xfip": 4.08,
+    "away_rest_days": 1,
+    "away_team": "Angels",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789165809,
+    "game_date": "2026-09-11",
+    "game_time_et": "6:45 PM ET",
+    "home_dark_horse": "Andr\u00e9s Chaparro",
+    "home_ml": -161,
+    "home_pitcher": "Cade Cavalli",
+    "home_pitcher_xfip": 3.37,
+    "home_rest_days": 1,
+    "home_team": "Nationals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -161,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge",
+    "wp_pick": "Nationals moneyline",
+    "wp_pick_team": "Nationals"
   }
 ]
