@@ -54,5 +54,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Esmerlyn Valdez",
+    "away_ml": 109,
+    "away_pitcher": "Paul Skenes",
+    "away_pitcher_xfip": 3.16,
+    "away_rest_days": 1,
+    "away_team": "Pirates",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789236304,
+    "game_date": "2026-09-12",
+    "game_time_et": "2:20 PM ET",
+    "home_dark_horse": "Michael Conforto",
+    "home_ml": -132,
+    "home_pitcher": "Clay Holmes",
+    "home_pitcher_xfip": 3.53,
+    "home_rest_days": 1,
+    "home_team": "Cubs",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 9.5",
+    "pick_odds": -176,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Pirates +1.5",
+    "wp_pick_team": "Pirates"
   }
 ]
