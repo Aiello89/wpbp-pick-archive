@@ -250,5 +250,33 @@
     "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "Red Sox moneyline",
     "wp_pick_team": "Red Sox"
+  },
+  {
+    "away_dark_horse": "Nelson Vel\u00e1zquez",
+    "away_ml": 123,
+    "away_pitcher": "Peter Lambert",
+    "away_pitcher_xfip": 3.97,
+    "away_rest_days": 1,
+    "away_team": "Astros",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789250106,
+    "game_date": "2026-09-12",
+    "game_time_et": "6:10 PM ET",
+    "home_dark_horse": "Victor Mesa Jr.",
+    "home_ml": -149,
+    "home_pitcher": "Ian Seymour",
+    "home_pitcher_xfip": 3.61,
+    "home_rest_days": 1,
+    "home_team": "Rays",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.5",
+    "pick_odds": -170,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Astros +1.5",
+    "wp_pick_team": "Astros"
   }
 ]
