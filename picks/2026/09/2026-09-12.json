@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Adael Amador",
+    "away_ml": 138,
+    "away_pitcher": "Tanner Gordon",
+    "away_pitcher_xfip": 4.01,
+    "away_rest_days": 1,
+    "away_team": "Rockies",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789232106,
+    "game_date": "2026-09-12",
+    "game_time_et": "1:10 PM ET",
+    "home_dark_horse": "Eduardo Valencia",
+    "home_ml": -167,
+    "home_pitcher": "Andrew Sears",
+    "home_pitcher_xfip": 3.9,
+    "home_rest_days": 1,
+    "home_team": "Tigers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.5",
+    "pick_odds": -167,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge",
+    "wp_pick": "Tigers moneyline",
+    "wp_pick_team": "Tigers"
+  }
+]
