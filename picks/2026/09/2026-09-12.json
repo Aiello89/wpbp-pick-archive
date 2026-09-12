@@ -82,5 +82,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Pirates +1.5",
     "wp_pick_team": "Pirates"
+  },
+  {
+    "away_dark_horse": "Coby Mayo",
+    "away_ml": 113,
+    "away_pitcher": "Kyle Bradish",
+    "away_pitcher_xfip": 4.22,
+    "away_rest_days": 1,
+    "away_team": "Orioles",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789239306,
+    "game_date": "2026-09-12",
+    "game_time_et": "3:07 PM ET",
+    "home_dark_horse": "Sean Keys",
+    "home_ml": -136,
+    "home_pitcher": "Spencer Miles",
+    "home_pitcher_xfip": 2.82,
+    "home_rest_days": 1,
+    "home_team": "Blue Jays",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Under 8.0",
+    "pick_odds": -136,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Blue Jays moneyline",
+    "wp_pick_team": "Blue Jays"
   }
 ]
