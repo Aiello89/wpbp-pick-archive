@@ -390,5 +390,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Diamondbacks moneyline",
     "wp_pick_team": "Diamondbacks"
+  },
+  {
+    "away_dark_horse": "Lazaro Montes",
+    "away_ml": -155,
+    "away_pitcher": "Bryan Woo",
+    "away_pitcher_xfip": 3.38,
+    "away_rest_days": 1,
+    "away_team": "Mariners",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789262706,
+    "game_date": "2026-09-12",
+    "game_time_et": "9:40 PM ET",
+    "home_dark_horse": "Brian Serven",
+    "home_ml": 128,
+    "home_pitcher": "Gage Jump",
+    "home_pitcher_xfip": 3.81,
+    "home_rest_days": 1,
+    "home_team": "Athletics",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 9.5",
+    "pick_odds": -155,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge",
+    "wp_pick": "Mariners moneyline",
+    "wp_pick_team": "Mariners"
   }
 ]
