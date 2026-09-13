@@ -306,5 +306,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Pirates +1.5",
     "wp_pick_team": "Pirates"
+  },
+  {
+    "away_dark_horse": "Jac Caglianone",
+    "away_ml": 159,
+    "away_pitcher": "Noah Cameron",
+    "away_pitcher_xfip": 3.69,
+    "away_rest_days": 1,
+    "away_team": "Royals",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789325405,
+    "game_date": "2026-09-13",
+    "game_time_et": "3:05 PM ET",
+    "home_dark_horse": "Mickey Gasper",
+    "home_ml": -194,
+    "home_pitcher": "Payton Tolle",
+    "home_pitcher_xfip": 3.17,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.5",
+    "pick_odds": -194,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge",
+    "wp_pick": "Red Sox moneyline",
+    "wp_pick_team": "Red Sox"
   }
 ]
