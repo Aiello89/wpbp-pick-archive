@@ -390,5 +390,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Rangers +1.5",
     "wp_pick_team": "Rangers"
+  },
+  {
+    "away_dark_horse": "Jackson Merrill",
+    "away_ml": -143,
+    "away_pitcher": "Nick Pivetta",
+    "away_pitcher_xfip": 1.55,
+    "away_rest_days": 1,
+    "away_team": "Padres",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789340704,
+    "game_date": "2026-09-13",
+    "game_time_et": "7:20 PM ET",
+    "home_dark_horse": "Bryce Eldridge",
+    "home_ml": 119,
+    "home_pitcher": "Logan Webb",
+    "home_pitcher_xfip": 3.52,
+    "home_rest_days": 1,
+    "home_team": "Giants",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -143,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Padres moneyline",
+    "wp_pick_team": "Padres"
   }
 ]
