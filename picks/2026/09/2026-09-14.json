@@ -194,5 +194,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Giants +1.5",
     "wp_pick_team": "Giants"
+  },
+  {
+    "away_dark_horse": "Jackson Merrill",
+    "away_ml": -207,
+    "away_pitcher": "Casey Mize",
+    "away_pitcher_xfip": 3.64,
+    "away_rest_days": 1,
+    "away_team": "Padres",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789431906,
+    "game_date": "2026-09-14",
+    "game_time_et": "8:40 PM ET",
+    "home_dark_horse": "Adael Amador",
+    "home_ml": 169,
+    "home_pitcher": "Tomoyuki Sugano",
+    "home_pitcher_xfip": 4.76,
+    "home_rest_days": 1,
+    "home_team": "Rockies",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 11.0",
+    "pick_odds": -207,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Padres moneyline",
+    "wp_pick_team": "Padres"
   }
 ]
