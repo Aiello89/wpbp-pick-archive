@@ -250,5 +250,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Braves +1.5",
     "wp_pick_team": "Braves"
+  },
+  {
+    "away_dark_horse": "Yohandy Morales",
+    "away_ml": -104,
+    "away_pitcher": "Andrew Alvarez",
+    "away_pitcher_xfip": 3.34,
+    "away_rest_days": 1,
+    "away_team": "Nationals",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789858814,
+    "game_date": "2026-09-19",
+    "game_time_et": "7:15 PM ET",
+    "home_dark_horse": "Leo Bernal",
+    "home_ml": -115,
+    "home_pitcher": "Michael McGreevy",
+    "home_pitcher_xfip": 4.16,
+    "home_rest_days": 1,
+    "home_team": "Cardinals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Under 8.5",
+    "pick_odds": -104,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Nationals moneyline",
+    "wp_pick_team": "Nationals"
   }
 ]
