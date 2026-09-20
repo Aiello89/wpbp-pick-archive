@@ -362,5 +362,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Padres moneyline",
     "wp_pick_team": "Padres"
+  },
+  {
+    "away_dark_horse": "Victor Bericoto",
+    "away_ml": 317,
+    "away_pitcher": "Yunior Marte",
+    "away_pitcher_xfip": 4.76,
+    "away_rest_days": 1,
+    "away_team": "Giants",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789865707,
+    "game_date": "2026-09-19",
+    "game_time_et": "9:10 PM ET",
+    "home_dark_horse": "Mookie Betts",
+    "home_ml": -414,
+    "home_pitcher": "Tarik Skubal",
+    "home_pitcher_xfip": 2.58,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.5",
+    "pick_odds": -414,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
