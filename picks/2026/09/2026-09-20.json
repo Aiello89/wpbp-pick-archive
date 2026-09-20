@@ -390,5 +390,33 @@
     "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge; Underdog value play",
     "wp_pick": "Yankees moneyline",
     "wp_pick_team": "Yankees"
+  },
+  {
+    "away_dark_horse": "Gary S\u00e1nchez",
+    "away_ml": -215,
+    "away_pitcher": "Jacob Misiorowski",
+    "away_pitcher_xfip": 2.26,
+    "away_rest_days": 1,
+    "away_team": "Brewers",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789945506,
+    "game_date": "2026-09-20",
+    "game_time_et": "7:20 PM ET",
+    "home_dark_horse": "Coby Mayo",
+    "home_ml": 176,
+    "home_pitcher": "Brandon Young",
+    "home_pitcher_xfip": 4.4,
+    "home_rest_days": 1,
+    "home_team": "Orioles",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.5",
+    "pick_odds": -215,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage",
+    "wp_pick": "Brewers moneyline",
+    "wp_pick_team": "Brewers"
   }
 ]
