@@ -222,5 +222,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Nationals +1.5",
     "wp_pick_team": "Nationals"
+  },
+  {
+    "away_dark_horse": "Sean Keys",
+    "away_ml": 148,
+    "away_pitcher": "Spencer Miles",
+    "away_pitcher_xfip": 2.8,
+    "away_rest_days": 1,
+    "away_team": "Blue Jays",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1789928405,
+    "game_date": "2026-09-20",
+    "game_time_et": "2:35 PM ET",
+    "home_dark_horse": "Justin Foscue",
+    "home_ml": -180,
+    "home_pitcher": "Jacob deGrom",
+    "home_pitcher_xfip": 2.99,
+    "home_rest_days": 1,
+    "home_team": "Rangers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Under 7.0",
+    "pick_odds": -156,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Blue Jays +1.5",
+    "wp_pick_team": "Blue Jays"
   }
 ]
