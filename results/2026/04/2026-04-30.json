@@ -1,0 +1,112 @@
+[
+  {
+    "away_score": 3,
+    "away_team": "Royals",
+    "doubleheader_game": 0,
+    "game_date": "2026-04-30",
+    "home_score": 6,
+    "home_team": "Athletics",
+    "pick_result": "LOSS",
+    "wp_pick": "Royals +1.5"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Tigers",
+    "doubleheader_game": 0,
+    "game_date": "2026-04-30",
+    "home_score": 2,
+    "home_team": "Braves",
+    "pick_result": "LOSS",
+    "wp_pick": "Braves moneyline"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Diamondbacks",
+    "doubleheader_game": 0,
+    "game_date": "2026-04-30",
+    "home_score": 13,
+    "home_team": "Brewers",
+    "pick_result": "LOSS",
+    "wp_pick": "Diamondbacks +1.5"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Nationals",
+    "doubleheader_game": 0,
+    "game_date": "2026-04-30",
+    "home_score": 4,
+    "home_team": "Mets",
+    "pick_result": "LOSS",
+    "wp_pick": "Mets moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Astros",
+    "doubleheader_game": 0,
+    "game_date": "2026-04-30",
+    "home_score": 10,
+    "home_team": "Orioles",
+    "pick_result": "LOSS",
+    "wp_pick": "Astros moneyline"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Astros",
+    "doubleheader_game": 1,
+    "game_date": "2026-04-30",
+    "home_score": 10,
+    "home_team": "Orioles",
+    "pick_result": "LOSS",
+    "wp_pick": "Astros moneyline"
+  },
+  {
+    "away_score": 11,
+    "away_team": "Astros",
+    "doubleheader_game": 2,
+    "game_date": "2026-04-30",
+    "home_score": 5,
+    "home_team": "Orioles",
+    "pick_result": "WIN",
+    "wp_pick": "Astros moneyline"
+  },
+  {
+    "away_score": 5,
+    "away_team": "Giants",
+    "doubleheader_game": 0,
+    "game_date": "2026-04-30",
+    "home_score": 6,
+    "home_team": "Phillies",
+    "pick_result": "WIN",
+    "wp_pick": "Giants +1.5"
+  },
+  {
+    "away_score": 10,
+    "away_team": "Cardinals",
+    "doubleheader_game": 0,
+    "game_date": "2026-04-30",
+    "home_score": 5,
+    "home_team": "Pirates",
+    "pick_result": "LOSS",
+    "wp_pick": "Pirates moneyline"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Rockies",
+    "doubleheader_game": 0,
+    "game_date": "2026-04-30",
+    "home_score": 6,
+    "home_team": "Reds",
+    "pick_result": "LOSS",
+    "wp_pick": "Rockies +1.5"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Blue Jays",
+    "doubleheader_game": 0,
+    "game_date": "2026-04-30",
+    "home_score": 7,
+    "home_team": "Twins",
+    "pick_result": "LOSS",
+    "wp_pick": "Blue Jays moneyline"
+  }
+]
