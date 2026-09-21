@@ -26,5 +26,33 @@
     "potd_reasoning": "Balanced matchup",
     "wp_pick": "Orioles +1.5",
     "wp_pick_team": "Orioles"
+  },
+  {
+    "away_dark_horse": "Yohandy Morales",
+    "away_ml": 110,
+    "away_pitcher": "DJ Herz",
+    "away_pitcher_xfip": 0.0,
+    "away_rest_days": 1,
+    "away_team": "Nationals",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790029508,
+    "game_date": "2026-09-21",
+    "game_time_et": "6:40 PM ET",
+    "home_dark_horse": "Eduardo Valencia",
+    "home_ml": -133,
+    "home_pitcher": "River Ryan",
+    "home_pitcher_xfip": 0.0,
+    "home_rest_days": 1,
+    "home_team": "Tigers",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.5",
+    "pick_odds": -184,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Nationals +1.5",
+    "wp_pick_team": "Nationals"
   }
 ]
