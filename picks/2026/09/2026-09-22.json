@@ -138,5 +138,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Guardians +1.5",
     "wp_pick_team": "Guardians"
+  },
+  {
+    "away_dark_horse": "Victor Mesa Jr.",
+    "away_ml": 108,
+    "away_pitcher": "Drew Rasmussen",
+    "away_pitcher_xfip": 2.95,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 2,
+    "finalized_at_unix": 1790117405,
+    "game_date": "2026-09-22",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -130,
+    "home_pitcher": "Max Fried",
+    "home_pitcher_xfip": 2.71,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.0",
+    "pick_odds": -210,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Rays +1.5",
+    "wp_pick_team": "Rays"
   }
 ]
