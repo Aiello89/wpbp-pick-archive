@@ -1,0 +1,32 @@
+[
+  {
+    "away_score": 2,
+    "away_team": "Twins",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-21",
+    "home_score": 5,
+    "home_team": "Giants",
+    "pick_result": "WIN",
+    "wp_pick": "Giants +1.5"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Blue Jays",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-21",
+    "home_score": 4,
+    "home_team": "Orioles",
+    "pick_result": "WIN",
+    "wp_pick": "Orioles +1.5"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Nationals",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-21",
+    "home_score": 9,
+    "home_team": "Tigers",
+    "pick_result": "LOSS",
+    "wp_pick": "Nationals +1.5"
+  }
+]
