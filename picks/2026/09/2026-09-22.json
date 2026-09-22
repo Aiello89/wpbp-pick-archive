@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Victor Mesa Jr.",
+    "away_ml": 124,
+    "away_pitcher": "Nick Martinez",
+    "away_pitcher_xfip": 3.97,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 1,
+    "finalized_at_unix": 1790095805,
+    "game_date": "2026-09-22",
+    "game_time_et": "1:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -149,
+    "home_pitcher": "Carlos Rod\u00f3n",
+    "home_pitcher_xfip": 3.76,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.5",
+    "pick_odds": -188,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Rays +1.5",
+    "wp_pick_team": "Rays"
+  }
+]
