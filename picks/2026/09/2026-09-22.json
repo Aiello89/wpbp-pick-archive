@@ -110,5 +110,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Nationals +1.5",
     "wp_pick_team": "Nationals"
+  },
+  {
+    "away_dark_horse": "Angel Mart\u00ednez",
+    "away_ml": 104,
+    "away_pitcher": "Parker Messick",
+    "away_pitcher_xfip": 3.18,
+    "away_rest_days": 1,
+    "away_team": "Guardians",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790116217,
+    "game_date": "2026-09-22",
+    "game_time_et": "6:45 PM ET",
+    "home_dark_horse": "Mickey Gasper",
+    "home_ml": -125,
+    "home_pitcher": "Payton Tolle",
+    "home_pitcher_xfip": 3.11,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.0",
+    "pick_odds": 0,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Guardians +1.5",
+    "wp_pick_team": "Guardians"
   }
 ]
