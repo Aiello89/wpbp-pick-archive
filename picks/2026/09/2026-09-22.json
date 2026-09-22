@@ -250,5 +250,33 @@
     "potd_reasoning": "Significant pitching advantage; Underdog value play",
     "wp_pick": "Royals +1.5",
     "wp_pick_team": "Royals"
+  },
+  {
+    "away_dark_horse": "Francisco Lindor",
+    "away_ml": 109,
+    "away_pitcher": "Sean Manaea",
+    "away_pitcher_xfip": 4.22,
+    "away_rest_days": 1,
+    "away_team": "Mets",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790121005,
+    "game_date": "2026-09-22",
+    "game_time_et": "8:05 PM ET",
+    "home_dark_horse": "Joc Pederson",
+    "home_ml": -131,
+    "home_pitcher": "MacKenzie Gore",
+    "home_pitcher_xfip": 3.93,
+    "home_rest_days": 1,
+    "home_team": "Rangers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 8.5",
+    "pick_odds": -194,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Mets +1.5",
+    "wp_pick_team": "Mets"
   }
 ]
