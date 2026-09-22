@@ -166,5 +166,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Rays +1.5",
     "wp_pick_team": "Rays"
+  },
+  {
+    "away_dark_horse": "Elly De La Cruz",
+    "away_ml": 193,
+    "away_pitcher": "Brandon Williamson",
+    "away_pitcher_xfip": 5.74,
+    "away_rest_days": 1,
+    "away_team": "Reds",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790118022,
+    "game_date": "2026-09-22",
+    "game_time_et": "7:15 PM ET",
+    "home_dark_horse": "Ronald Acu\u00f1a Jr.",
+    "home_ml": -238,
+    "home_pitcher": "JR Ritchie",
+    "home_pitcher_xfip": 5.24,
+    "home_rest_days": 1,
+    "home_team": "Braves",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 9.5",
+    "pick_odds": -238,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge",
+    "wp_pick": "Braves moneyline",
+    "wp_pick_team": "Braves"
   }
 ]
