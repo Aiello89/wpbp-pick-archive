@@ -166,5 +166,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Pirates moneyline",
     "wp_pick_team": "Pirates"
+  },
+  {
+    "away_dark_horse": "Victor Mesa Jr.",
+    "away_ml": 118,
+    "away_pitcher": "Mason Englert",
+    "away_pitcher_xfip": 4.4,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790203805,
+    "game_date": "2026-09-23",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -143,
+    "home_pitcher": "Gerrit Cole",
+    "home_pitcher_xfip": 3.54,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.5",
+    "pick_odds": -200,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Rays +1.5",
+    "wp_pick_team": "Rays"
   }
 ]
