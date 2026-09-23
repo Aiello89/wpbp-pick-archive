@@ -222,5 +222,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Guardians +1.5",
     "wp_pick_team": "Guardians"
+  },
+  {
+    "away_dark_horse": "Elly De La Cruz",
+    "away_ml": 223,
+    "away_pitcher": "Andrew Abbott",
+    "away_pitcher_xfip": 4.69,
+    "away_rest_days": 1,
+    "away_team": "Reds",
+    "confidence_tier": "Lock",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790204418,
+    "game_date": "2026-09-23",
+    "game_time_et": "7:15 PM ET",
+    "home_dark_horse": "Ronald Acu\u00f1a Jr.",
+    "home_ml": -278,
+    "home_pitcher": "Chris Sale",
+    "home_pitcher_xfip": 2.35,
+    "home_rest_days": 1,
+    "home_team": "Braves",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.0",
+    "pick_odds": -120,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage",
+    "wp_pick": "Braves -1.5",
+    "wp_pick_team": "Braves"
   }
 ]
