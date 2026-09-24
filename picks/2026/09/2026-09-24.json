@@ -54,5 +54,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Royals +1.5",
     "wp_pick_team": "Royals"
+  },
+  {
+    "away_dark_horse": "Griffin Conine",
+    "away_ml": 178,
+    "away_pitcher": "Tyler Phillips",
+    "away_pitcher_xfip": 4.5,
+    "away_rest_days": 1,
+    "away_team": "Marlins",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790273107,
+    "game_date": "2026-09-24",
+    "game_time_et": "2:20 PM ET",
+    "home_dark_horse": "Michael Conforto",
+    "home_ml": -219,
+    "home_pitcher": "Matthew Boyd",
+    "home_pitcher_xfip": 4.25,
+    "home_rest_days": 1,
+    "home_team": "Cubs",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.0",
+    "pick_odds": -130,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Marlins +1.5",
+    "wp_pick_team": "Marlins"
   }
 ]
