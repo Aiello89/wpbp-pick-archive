@@ -194,5 +194,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Red Sox moneyline",
     "wp_pick_team": "Red Sox"
+  },
+  {
+    "away_dark_horse": "Victor Mesa Jr.",
+    "away_ml": 123,
+    "away_pitcher": "Ian Seymour",
+    "away_pitcher_xfip": 3.64,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790290205,
+    "game_date": "2026-09-24",
+    "game_time_et": "7:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -149,
+    "home_pitcher": "Cam Schlittler",
+    "home_pitcher_xfip": 2.64,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.0",
+    "pick_odds": -149,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Yankees moneyline",
+    "wp_pick_team": "Yankees"
   }
 ]
