@@ -362,5 +362,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Diamondbacks moneyline",
     "wp_pick_team": "Diamondbacks"
+  },
+  {
+    "away_dark_horse": "Mike Trout",
+    "away_ml": -135,
+    "away_pitcher": "Walbert Ure\u00f1a",
+    "away_pitcher_xfip": 3.6,
+    "away_rest_days": 1,
+    "away_team": "Angels",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790213108,
+    "game_date": "2026-09-23",
+    "game_time_et": "9:40 PM ET",
+    "home_dark_horse": "Brian Serven",
+    "home_ml": 112,
+    "home_pitcher": "Jeffrey Springs",
+    "home_pitcher_xfip": 5.08,
+    "home_rest_days": 1,
+    "home_team": "Athletics",
+    "is_pick_of_day": false,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Under 9.5",
+    "pick_odds": -135,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Angels moneyline",
+    "wp_pick_team": "Angels"
   }
 ]
