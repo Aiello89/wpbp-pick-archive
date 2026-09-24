@@ -166,5 +166,33 @@
     "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge; Underdog value play",
     "wp_pick": "Brewers moneyline",
     "wp_pick_team": "Brewers"
+  },
+  {
+    "away_dark_horse": "Angel Mart\u00ednez",
+    "away_ml": 109,
+    "away_pitcher": "Daniel Espino",
+    "away_pitcher_xfip": 3.55,
+    "away_rest_days": 1,
+    "away_team": "Guardians",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790289010,
+    "game_date": "2026-09-24",
+    "game_time_et": "6:45 PM ET",
+    "home_dark_horse": "Mickey Gasper",
+    "home_ml": -131,
+    "home_pitcher": "Ranger Suarez",
+    "home_pitcher_xfip": 3.19,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.5",
+    "pick_odds": -131,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge",
+    "wp_pick": "Red Sox moneyline",
+    "wp_pick_team": "Red Sox"
   }
 ]
