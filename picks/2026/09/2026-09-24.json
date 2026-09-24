@@ -26,5 +26,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Pirates moneyline",
     "wp_pick_team": "Pirates"
+  },
+  {
+    "away_dark_horse": "Randal Grichuk",
+    "away_ml": -142,
+    "away_pitcher": "David Sandlin",
+    "away_pitcher_xfip": 4.28,
+    "away_rest_days": 1,
+    "away_team": "White Sox",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790272506,
+    "game_date": "2026-09-24",
+    "game_time_et": "2:10 PM ET",
+    "home_dark_horse": "Jac Caglianone",
+    "home_ml": 118,
+    "home_pitcher": "Randy Dobnak",
+    "home_pitcher_xfip": 4.25,
+    "home_rest_days": 1,
+    "home_team": "Royals",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 9.0",
+    "pick_odds": -150,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Royals +1.5",
+    "wp_pick_team": "Royals"
   }
 ]
