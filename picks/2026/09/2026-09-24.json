@@ -138,5 +138,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Diamondbacks moneyline",
     "wp_pick_team": "Diamondbacks"
+  },
+  {
+    "away_dark_horse": "Gary S\u00e1nchez",
+    "away_ml": 113,
+    "away_pitcher": "Shane Drohan",
+    "away_pitcher_xfip": 3.81,
+    "away_rest_days": 1,
+    "away_team": "Brewers",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790286605,
+    "game_date": "2026-09-24",
+    "game_time_et": "6:05 PM ET",
+    "home_dark_horse": "Bryce Harper",
+    "home_ml": -137,
+    "home_pitcher": "Andrew Painter",
+    "home_pitcher_xfip": 4.42,
+    "home_rest_days": 1,
+    "home_team": "Phillies",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.5",
+    "pick_odds": 113,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge; Underdog value play",
+    "wp_pick": "Brewers moneyline",
+    "wp_pick_team": "Brewers"
   }
 ]
