@@ -334,5 +334,33 @@
     "potd_reasoning": "Strong model edge; Significant pitching advantage",
     "wp_pick": "White Sox moneyline",
     "wp_pick_team": "White Sox"
+  },
+  {
+    "away_dark_horse": "Justin Foscue",
+    "away_ml": -126,
+    "away_pitcher": "Jacob deGrom",
+    "away_pitcher_xfip": 3.08,
+    "away_rest_days": 1,
+    "away_team": "Rangers",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790380507,
+    "game_date": "2026-09-25",
+    "game_time_et": "8:10 PM ET",
+    "home_dark_horse": "Emmanuel Rodriguez",
+    "home_ml": 105,
+    "home_pitcher": "Joe Ryan",
+    "home_pitcher_xfip": 3.54,
+    "home_rest_days": 1,
+    "home_team": "Twins",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7.0",
+    "pick_odds": -156,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Twins +1.5",
+    "wp_pick_team": "Twins"
   }
 ]
