@@ -82,5 +82,33 @@
     "potd_reasoning": "Significant pitching advantage; Underdog value play",
     "wp_pick": "Orioles +1.5",
     "wp_pick_team": "Orioles"
+  },
+  {
+    "away_dark_horse": "Michael Conforto",
+    "away_ml": -120,
+    "away_pitcher": "David Peterson",
+    "away_pitcher_xfip": 4.1,
+    "away_rest_days": 1,
+    "away_team": "Cubs",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 2,
+    "finalized_at_unix": 1790371205,
+    "game_date": "2026-09-25",
+    "game_time_et": "5:35 PM ET",
+    "home_dark_horse": "Mickey Gasper",
+    "home_ml": 100,
+    "home_pitcher": "Brayan Bello",
+    "home_pitcher_xfip": 4.08,
+    "home_rest_days": 1,
+    "home_team": "Red Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.5",
+    "pick_odds": -178,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Red Sox +1.5",
+    "wp_pick_team": "Red Sox"
   }
 ]
