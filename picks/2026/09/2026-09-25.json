@@ -26,5 +26,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Red Sox +1.5",
     "wp_pick_team": "Red Sox"
+  },
+  {
+    "away_dark_horse": "Christian Encarnacion-Strand",
+    "away_ml": -109,
+    "away_pitcher": "Trevor Rogers",
+    "away_pitcher_xfip": 3.55,
+    "away_rest_days": 1,
+    "away_team": "Orioles",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 1,
+    "finalized_at_unix": 1790365805,
+    "game_date": "2026-09-25",
+    "game_time_et": "4:05 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -111,
+    "home_pitcher": "Brendan Beck",
+    "home_pitcher_xfip": 7.65,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.0",
+    "pick_odds": -187,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Yankees +1.5",
+    "wp_pick_team": "Yankees"
   }
 ]
