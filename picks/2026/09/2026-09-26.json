@@ -82,5 +82,33 @@
     "potd_reasoning": "Strong model edge",
     "wp_pick": "Blue Jays moneyline",
     "wp_pick_team": "Blue Jays"
+  },
+  {
+    "away_dark_horse": "Max Muncy",
+    "away_ml": -287,
+    "away_pitcher": "Blake Snell",
+    "away_pitcher_xfip": 1.8,
+    "away_rest_days": 1,
+    "away_team": "Dodgers",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790452204,
+    "game_date": "2026-09-26",
+    "game_time_et": "4:05 PM ET",
+    "home_dark_horse": "Victor Bericoto",
+    "home_ml": 229,
+    "home_pitcher": "Matt Wilkinson",
+    "home_pitcher_xfip": 3.94,
+    "home_rest_days": 1,
+    "home_team": "Giants",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.0",
+    "pick_odds": -287,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
