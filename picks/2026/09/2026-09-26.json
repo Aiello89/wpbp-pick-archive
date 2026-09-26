@@ -54,5 +54,33 @@
     "potd_reasoning": "Significant pitching advantage; Underdog value play",
     "wp_pick": "Pirates +1.5",
     "wp_pick_team": "Pirates"
+  },
+  {
+    "away_dark_horse": "Elly De La Cruz",
+    "away_ml": 138,
+    "away_pitcher": "Rhett Lowder",
+    "away_pitcher_xfip": 4.62,
+    "away_rest_days": 1,
+    "away_team": "Reds",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790448907,
+    "game_date": "2026-09-26",
+    "game_time_et": "3:07 PM ET",
+    "home_dark_horse": "Davis Schneider",
+    "home_ml": -167,
+    "home_pitcher": "Trey Yesavage",
+    "home_pitcher_xfip": 4.18,
+    "home_rest_days": 1,
+    "home_team": "Blue Jays",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 8.0",
+    "pick_odds": -167,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge",
+    "wp_pick": "Blue Jays moneyline",
+    "wp_pick_team": "Blue Jays"
   }
 ]
