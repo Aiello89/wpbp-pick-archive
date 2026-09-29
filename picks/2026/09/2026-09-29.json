@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Derek Hill",
+    "away_ml": 158,
+    "away_pitcher": "Jes\u00fas Luzardo",
+    "away_pitcher_xfip": 2.85,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790703908,
+    "game_date": "2026-09-29",
+    "game_time_et": "2:00 PM ET",
+    "home_dark_horse": "Ronald Acu\u00f1a Jr.",
+    "home_ml": -192,
+    "home_pitcher": "Chris Sale",
+    "home_pitcher_xfip": 2.36,
+    "home_rest_days": 1,
+    "home_team": "Braves",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Lean Over 6.5",
+    "pick_odds": -143,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Phillies +1.5",
+    "wp_pick_team": "Phillies"
+  }
+]
