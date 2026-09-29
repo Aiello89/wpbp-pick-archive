@@ -26,5 +26,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Phillies +1.5",
     "wp_pick_team": "Phillies"
+  },
+  {
+    "away_dark_horse": "Miguel Vargas",
+    "away_ml": 102,
+    "away_pitcher": "Hagen Smith",
+    "away_pitcher_xfip": 2.42,
+    "away_rest_days": 1,
+    "away_team": "White Sox",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790714709,
+    "game_date": "2026-09-29",
+    "game_time_et": "5:00 PM ET",
+    "home_dark_horse": "Lucas Spence",
+    "home_ml": -123,
+    "home_pitcher": "AJ Blubaugh",
+    "home_pitcher_xfip": 4.2,
+    "home_rest_days": 1,
+    "home_team": "Astros",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": true,
+    "over_under": "Under 8.5",
+    "pick_odds": 102,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge; Underdog value play",
+    "wp_pick": "White Sox moneyline",
+    "wp_pick_team": "White Sox"
   }
 ]
