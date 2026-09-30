@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Bryce Harper",
+    "away_ml": -117,
+    "away_pitcher": "Cristopher S\u00e1nchez",
+    "away_pitcher_xfip": 2.87,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790790313,
+    "game_date": "2026-09-30",
+    "game_time_et": "2:00 PM ET",
+    "home_dark_horse": "Ronald Acu\u00f1a Jr.",
+    "home_ml": -103,
+    "home_pitcher": "Tyler Mahle",
+    "home_pitcher_xfip": 3.9,
+    "home_rest_days": 1,
+    "home_team": "Braves",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Lean Over 7",
+    "pick_odds": -176,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Braves +1.5",
+    "wp_pick_team": "Braves"
+  }
+]
