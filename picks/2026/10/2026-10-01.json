@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Edmundo Sosa",
+    "away_ml": -106,
+    "away_pitcher": "Aaron Nola",
+    "away_pitcher_xfip": 4.22,
+    "away_rest_days": 1,
+    "away_team": "Phillies",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1790898308,
+    "game_date": "2026-10-01",
+    "game_time_et": "8:00 PM ET",
+    "home_dark_horse": "Ronald Acu\u00f1a Jr.",
+    "home_ml": -114,
+    "home_pitcher": "Ray Kerr",
+    "home_pitcher_xfip": 4.04,
+    "home_rest_days": 1,
+    "home_team": "Braves",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Lean Over 7.5",
+    "pick_odds": -114,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Strong Favourite badge",
+    "wp_pick": "Braves moneyline",
+    "wp_pick_team": "Braves"
+  }
+]
