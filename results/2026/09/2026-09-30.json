@@ -1,0 +1,42 @@
+[
+  {
+    "away_score": 7,
+    "away_team": "White Sox",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-30",
+    "home_score": 3,
+    "home_team": "Astros",
+    "pick_result": "WIN",
+    "wp_pick": "White Sox +1.5"
+  },
+  {
+    "away_score": 4,
+    "away_team": "Phillies",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-30",
+    "home_score": 3,
+    "home_team": "Braves",
+    "pick_result": "WIN",
+    "wp_pick": "Braves +1.5"
+  },
+  {
+    "away_score": 1,
+    "away_team": "Cubs",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-30",
+    "home_score": 4,
+    "home_team": "Padres",
+    "pick_result": "WIN",
+    "wp_pick": "Padres moneyline"
+  },
+  {
+    "away_score": 2,
+    "away_team": "Red Sox",
+    "doubleheader_game": 0,
+    "game_date": "2026-09-30",
+    "home_score": 9,
+    "home_team": "Yankees",
+    "pick_result": "WIN",
+    "wp_pick": "Yankees moneyline"
+  }
+]
