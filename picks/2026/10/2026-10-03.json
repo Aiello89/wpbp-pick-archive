@@ -26,5 +26,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "White Sox +1.5",
     "wp_pick_team": "White Sox"
+  },
+  {
+    "away_dark_horse": "Ronald Acu\u00f1a Jr.",
+    "away_ml": 173,
+    "away_pitcher": "Dylan Dodd",
+    "away_pitcher_xfip": 3.68,
+    "away_rest_days": 1,
+    "away_team": "Braves",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791056708,
+    "game_date": "2026-10-03",
+    "game_time_et": "4:00 PM ET",
+    "home_dark_horse": "Max Muncy",
+    "home_ml": -212,
+    "home_pitcher": "Tarik Skubal",
+    "home_pitcher_xfip": 2.58,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 8.5",
+    "pick_odds": -212,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
