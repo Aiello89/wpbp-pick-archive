@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Miguel Vargas",
+    "away_ml": 124,
+    "away_pitcher": "Hagen Smith",
+    "away_pitcher_xfip": 2.42,
+    "away_rest_days": 1,
+    "away_team": "White Sox",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791045910,
+    "game_date": "2026-10-03",
+    "game_time_et": "1:00 PM ET",
+    "home_dark_horse": "Jo Adell",
+    "home_ml": -149,
+    "home_pitcher": "Parker Messick",
+    "home_pitcher_xfip": 3.14,
+    "home_rest_days": 1,
+    "home_team": "Guardians",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.5",
+    "pick_odds": -188,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "White Sox +1.5",
+    "wp_pick_team": "White Sox"
+  }
+]
