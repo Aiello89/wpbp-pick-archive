@@ -26,5 +26,33 @@
     "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Brewers moneyline",
     "wp_pick_team": "Brewers"
+  },
+  {
+    "away_dark_horse": "Ronald Acu\u00f1a Jr.",
+    "away_ml": 174,
+    "away_pitcher": "Ray Kerr",
+    "away_pitcher_xfip": 4.04,
+    "away_rest_days": 1,
+    "away_team": "Braves",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791157509,
+    "game_date": "2026-10-04",
+    "game_time_et": "8:00 PM ET",
+    "home_dark_horse": "Mookie Betts",
+    "home_ml": -213,
+    "home_pitcher": "Blake Snell",
+    "home_pitcher_xfip": 1.79,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Under 7.5",
+    "pick_odds": -213,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
