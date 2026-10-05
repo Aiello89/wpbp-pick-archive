@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Miguel Vargas",
+    "away_ml": 131,
+    "away_pitcher": "Anthony Kay",
+    "away_pitcher_xfip": 4.66,
+    "away_rest_days": 1,
+    "away_team": "White Sox",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791233111,
+    "game_date": "2026-10-05",
+    "game_time_et": "5:00 PM ET",
+    "home_dark_horse": "Jo Adell",
+    "home_ml": -158,
+    "home_pitcher": "Gavin Williams",
+    "home_pitcher_xfip": 3.25,
+    "home_rest_days": 1,
+    "home_team": "Guardians",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.5",
+    "pick_odds": -182,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "White Sox +1.5",
+    "wp_pick_team": "White Sox"
+  }
+]
