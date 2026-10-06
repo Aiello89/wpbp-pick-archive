@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Mookie Betts",
+    "away_ml": -112,
+    "away_pitcher": "Yoshinobu Yamamoto",
+    "away_pitcher_xfip": 3.4,
+    "away_rest_days": 1,
+    "away_team": "Dodgers",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791323111,
+    "game_date": "2026-10-06",
+    "game_time_et": "6:00 PM ET",
+    "home_dark_horse": "Ronald Acu\u00f1a Jr.",
+    "home_ml": -107,
+    "home_pitcher": "Chris Sale",
+    "home_pitcher_xfip": 2.36,
+    "home_rest_days": 1,
+    "home_team": "Braves",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.5",
+    "pick_odds": -189,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Significant pitching advantage",
+    "wp_pick": "Braves +1.5",
+    "wp_pick_team": "Braves"
+  }
+]
