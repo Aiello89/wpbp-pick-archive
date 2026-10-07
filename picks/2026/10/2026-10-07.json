@@ -26,5 +26,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Guardians +1.5",
     "wp_pick_team": "Guardians"
+  },
+  {
+    "away_dark_horse": "Max Muncy",
+    "away_ml": -155,
+    "away_pitcher": "Tyler Glasnow",
+    "away_pitcher_xfip": 2.81,
+    "away_rest_days": 1,
+    "away_team": "Dodgers",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791409513,
+    "game_date": "2026-10-07",
+    "game_time_et": "6:00 PM ET",
+    "home_dark_horse": "Ronald Acu\u00f1a Jr.",
+    "home_ml": 128,
+    "home_pitcher": "Tyler Mahle",
+    "home_pitcher_xfip": 3.9,
+    "home_rest_days": 1,
+    "home_team": "Braves",
+    "is_pick_of_day": true,
+    "is_strong_favourite": true,
+    "is_underdog_pick": false,
+    "over_under": "Lean Under 7.5",
+    "pick_odds": -155,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
+    "wp_pick": "Dodgers moneyline",
+    "wp_pick_team": "Dodgers"
   }
 ]
