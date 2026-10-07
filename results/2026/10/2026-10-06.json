@@ -1,0 +1,22 @@
+[
+  {
+    "away_score": 3,
+    "away_team": "Dodgers",
+    "doubleheader_game": 0,
+    "game_date": "2026-10-06",
+    "home_score": 1,
+    "home_team": "Braves",
+    "pick_result": "LOSS",
+    "wp_pick": "Braves +1.5"
+  },
+  {
+    "away_score": 3,
+    "away_team": "Brewers",
+    "doubleheader_game": 0,
+    "game_date": "2026-10-06",
+    "home_score": 4,
+    "home_team": "Padres",
+    "pick_result": "WIN",
+    "wp_pick": "Brewers +1.5"
+  }
+]
