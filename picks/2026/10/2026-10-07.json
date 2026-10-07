@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Jos\u00e9 Ram\u00edrez",
+    "away_ml": 105,
+    "away_pitcher": "Daniel Espino",
+    "away_pitcher_xfip": 3.21,
+    "away_rest_days": 1,
+    "away_team": "Guardians",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791402309,
+    "game_date": "2026-10-07",
+    "game_time_et": "4:00 PM ET",
+    "home_dark_horse": "Miguel Vargas",
+    "home_ml": -127,
+    "home_pitcher": "Sean Newcomb",
+    "home_pitcher_xfip": 3.28,
+    "home_rest_days": 1,
+    "home_team": "White Sox",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Lean Over 8",
+    "pick_odds": -205,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Guardians +1.5",
+    "wp_pick_team": "Guardians"
+  }
+]
