@@ -54,5 +54,33 @@
     "potd_reasoning": "Strong model edge; Model sees more value than market; Significant pitching advantage; Strong Favourite badge",
     "wp_pick": "Dodgers moneyline",
     "wp_pick_team": "Dodgers"
+  },
+  {
+    "away_dark_horse": "Victor Mesa Jr.",
+    "away_ml": 148,
+    "away_pitcher": "Nick Martinez",
+    "away_pitcher_xfip": 3.95,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791416709,
+    "game_date": "2026-10-07",
+    "game_time_et": "8:00 PM ET",
+    "home_dark_horse": "Luis Garc\u00eda Jr.",
+    "home_ml": -180,
+    "home_pitcher": "Max Fried",
+    "home_pitcher_xfip": 2.72,
+    "home_rest_days": 1,
+    "home_team": "Yankees",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Lean Over 7",
+    "pick_odds": -156,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Rays +1.5",
+    "wp_pick_team": "Rays"
   }
 ]
