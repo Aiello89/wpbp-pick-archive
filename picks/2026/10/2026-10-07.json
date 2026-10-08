@@ -82,5 +82,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Rays +1.5",
     "wp_pick_team": "Rays"
+  },
+  {
+    "away_dark_horse": "Jackson Chourio",
+    "away_ml": -107,
+    "away_pitcher": "Robert Gasser",
+    "away_pitcher_xfip": 4.12,
+    "away_rest_days": 1,
+    "away_team": "Brewers",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791423910,
+    "game_date": "2026-10-07",
+    "game_time_et": "10:00 PM ET",
+    "home_dark_horse": "Ty France",
+    "home_ml": -113,
+    "home_pitcher": "Walker Buehler",
+    "home_pitcher_xfip": 4.34,
+    "home_rest_days": 1,
+    "home_team": "Padres",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 7.5",
+    "pick_odds": -205,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Padres +1.5",
+    "wp_pick_team": "Padres"
   }
 ]
