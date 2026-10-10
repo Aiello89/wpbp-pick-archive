@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Miguel Vargas",
+    "away_ml": 127,
+    "away_pitcher": "Sean Burke",
+    "away_pitcher_xfip": 3.69,
+    "away_rest_days": 1,
+    "away_team": "White Sox",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791675908,
+    "game_date": "2026-10-10",
+    "game_time_et": "8:00 PM ET",
+    "home_dark_horse": "Travis Bazzana",
+    "home_ml": -142,
+    "home_pitcher": "Gavin Williams",
+    "home_pitcher_xfip": 3.25,
+    "home_rest_days": 1,
+    "home_team": "Guardians",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7",
+    "pick_odds": -188,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "White Sox +1.5",
+    "wp_pick_team": "White Sox"
+  }
+]
