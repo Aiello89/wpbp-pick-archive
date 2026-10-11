@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Max Muncy",
+    "away_ml": -108,
+    "away_pitcher": "Tarik Skubal",
+    "away_pitcher_xfip": 2.58,
+    "away_rest_days": 1,
+    "away_team": "Dodgers",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791762908,
+    "game_date": "2026-10-11",
+    "game_time_et": "8:00 PM ET",
+    "home_dark_horse": "Jackson Chourio",
+    "home_ml": -103,
+    "home_pitcher": "Jacob Misiorowski",
+    "home_pitcher_xfip": 2.24,
+    "home_rest_days": 1,
+    "home_team": "Brewers",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6",
+    "pick_odds": 0,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Dodgers +1.5",
+    "wp_pick_team": "Dodgers"
+  }
+]
