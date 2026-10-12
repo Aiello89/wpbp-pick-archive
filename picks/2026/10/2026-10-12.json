@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Max Muncy",
+    "away_ml": -130,
+    "away_pitcher": "Yoshinobu Yamamoto",
+    "away_pitcher_xfip": 3.4,
+    "away_rest_days": 1,
+    "away_team": "Dodgers",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791838510,
+    "game_date": "2026-10-12",
+    "game_time_et": "5:00 PM ET",
+    "home_dark_horse": "Jackson Chourio",
+    "home_ml": 116,
+    "home_pitcher": "Logan Henderson",
+    "home_pitcher_xfip": 3.17,
+    "home_rest_days": 1,
+    "home_team": "Brewers",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6.5",
+    "pick_odds": -170,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Brewers +1.5",
+    "wp_pick_team": "Brewers"
+  }
+]
