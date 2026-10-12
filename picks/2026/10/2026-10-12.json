@@ -26,5 +26,33 @@
     "potd_reasoning": "Model sees more value than market; Underdog value play",
     "wp_pick": "Brewers +1.5",
     "wp_pick_team": "Brewers"
+  },
+  {
+    "away_dark_horse": "Travis Bazzana",
+    "away_ml": 145,
+    "away_pitcher": "Foster Griffin",
+    "away_pitcher_xfip": 3.87,
+    "away_rest_days": 1,
+    "away_team": "Guardians",
+    "confidence_tier": "Confident",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1791849311,
+    "game_date": "2026-10-12",
+    "game_time_et": "8:00 PM ET",
+    "home_dark_horse": "Ryan Vilade",
+    "home_ml": -163,
+    "home_pitcher": "Drew Rasmussen",
+    "home_pitcher_xfip": 2.89,
+    "home_rest_days": 1,
+    "home_team": "Rays",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.5",
+    "pick_odds": -163,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Rays moneyline",
+    "wp_pick_team": "Rays"
   }
 ]
