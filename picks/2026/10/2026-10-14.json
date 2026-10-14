@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "William Contreras",
+    "away_ml": 156,
+    "away_pitcher": "Robert Gasser",
+    "away_pitcher_xfip": 4.12,
+    "away_rest_days": 1,
+    "away_team": "Brewers",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1792022108,
+    "game_date": "2026-10-14",
+    "game_time_et": "8:00 PM ET",
+    "home_dark_horse": "Mookie Betts",
+    "home_ml": -175,
+    "home_pitcher": "Blake Snell",
+    "home_pitcher_xfip": 1.79,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 7",
+    "pick_odds": -138,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Brewers +1.5",
+    "wp_pick_team": "Brewers"
+  }
+]
