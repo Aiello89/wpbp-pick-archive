@@ -26,5 +26,33 @@
     "potd_reasoning": "Underdog value play",
     "wp_pick": "Rays +1.5",
     "wp_pick_team": "Rays"
+  },
+  {
+    "away_dark_horse": "Jackson Chourio",
+    "away_ml": 135,
+    "away_pitcher": "Shane Drohan",
+    "away_pitcher_xfip": 3.8,
+    "away_rest_days": 1,
+    "away_team": "Brewers",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1792108509,
+    "game_date": "2026-10-15",
+    "game_time_et": "8:00 PM ET",
+    "home_dark_horse": "Mookie Betts",
+    "home_ml": -151,
+    "home_pitcher": "Tyler Glasnow",
+    "home_pitcher_xfip": 2.81,
+    "home_rest_days": 1,
+    "home_team": "Dodgers",
+    "is_pick_of_day": false,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Lean Over 8",
+    "pick_odds": -163,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Model sees more value than market; Underdog value play",
+    "wp_pick": "Brewers +1.5",
+    "wp_pick_team": "Brewers"
   }
 ]
