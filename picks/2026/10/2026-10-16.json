@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Victor Mesa Jr.",
+    "away_ml": -110,
+    "away_pitcher": "Nick Martinez",
+    "away_pitcher_xfip": 3.95,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1792194908,
+    "game_date": "2026-10-16",
+    "game_time_et": "8:00 PM ET",
+    "home_dark_horse": "Travis Bazzana",
+    "home_ml": -101,
+    "home_pitcher": "Shawn Armstrong",
+    "home_pitcher_xfip": 4.49,
+    "home_rest_days": 1,
+    "home_team": "Guardians",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.5",
+    "pick_odds": 0,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Balanced matchup",
+    "wp_pick": "Rays +1.5",
+    "wp_pick_team": "Rays"
+  }
+]
