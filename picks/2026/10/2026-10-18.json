@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Ryan Vilade",
+    "away_ml": -122,
+    "away_pitcher": "Drew Rasmussen",
+    "away_pitcher_xfip": 2.89,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Slight Lean",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1792357384,
+    "game_date": "2026-10-18",
+    "game_time_et": "5:08 PM ET",
+    "home_dark_horse": "Travis Bazzana",
+    "home_ml": 109,
+    "home_pitcher": "Parker Messick",
+    "home_pitcher_xfip": 3.14,
+    "home_rest_days": 1,
+    "home_team": "Guardians",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": true,
+    "over_under": "Over 6",
+    "pick_odds": -168,
+    "pick_odds_type": "spreads",
+    "potd_reasoning": "Underdog value play",
+    "wp_pick": "Guardians +1.5",
+    "wp_pick_team": "Guardians"
+  }
+]
