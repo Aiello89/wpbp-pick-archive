@@ -1,0 +1,30 @@
+[
+  {
+    "away_dark_horse": "Victor Mesa Jr.",
+    "away_ml": 165,
+    "away_pitcher": "Nick Martinez",
+    "away_pitcher_xfip": 3.95,
+    "away_rest_days": 1,
+    "away_team": "Rays",
+    "confidence_tier": "Strong",
+    "doubleheader_game": 0,
+    "finalized_at_unix": 1792799708,
+    "game_date": "2026-10-23",
+    "game_time_et": "8:00 PM ET",
+    "home_dark_horse": "Jackson Chourio",
+    "home_ml": -186,
+    "home_pitcher": "Jacob Misiorowski",
+    "home_pitcher_xfip": 2.24,
+    "home_rest_days": 1,
+    "home_team": "Brewers",
+    "is_pick_of_day": true,
+    "is_strong_favourite": false,
+    "is_underdog_pick": false,
+    "over_under": "Over 6.5",
+    "pick_odds": -186,
+    "pick_odds_type": "h2h",
+    "potd_reasoning": "Strong model edge; Significant pitching advantage",
+    "wp_pick": "Brewers moneyline",
+    "wp_pick_team": "Brewers"
+  }
+]
